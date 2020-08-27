@@ -4,8 +4,11 @@
 ![](/images/the_digirati_saga_cover.jpg)
 
 Copyright © Richard Hechenbichler 2020.
-To Published in 2020 by Amazon Publishing.
+
+To be Published in 2020 by Amazon Publishing.
+
 All rights reserved.
+
 This book or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the author, except for the use of brief quotations in a book review.
 
 This book is dedicated to my Grandfather, Josef Hechenbichler (1913-1996), who's companion, teachings and proverbs have been essential to my formation as an ingenious and creative human being. And by making me more prepared to go through persistent inner wars with determination in order to overcome my own mind limitations using my own spiritual crafts.
