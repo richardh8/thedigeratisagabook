@@ -1,7 +1,7 @@
 # The Digerati Saga
-## a Digital Transformation Story Through Inner Wars
+## The Digital Transformation Story Through Inner Wars
 
-![Book Cover](https://drive.google.com/file/d/1mYI6XJnTs28QdfoKa8LLCfgSkLEHFmtJ/view?usp=sharing)
+![the_digirati_saga_cover](https://user-images.githubusercontent.com/1573493/91458323-c26fdb80-e85b-11ea-8a46-0f8bf780ccc3.jpg)
 
 Copyright © Richard Hechenbichler 2020.
 To Published in 2020 by Amazon Publishing.
