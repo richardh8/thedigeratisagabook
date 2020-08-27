@@ -1,35 +1,42 @@
 # The Digerati Saga
 
-Prologue	3
-Tipping Point of Crisis	4
-Postponing, getting deeper into the crisis	5
-Limbic system taking over	6
-The inevitable decision	7
-Retreat to gain speed	7
-Building from purpose	7
-Foundation As A Starting Point	8
-Evolving digital thinking	8
-Focusing on new experiences	9
-Connecting to the exponential and infinity	11
-Fusing business and technology	12
-Architecting for continual change	14
-Collaborating in the ecosystem	15
-Creating historical journeys	17
-Flowing in time and rhythm	18
-Glassbox Organizations	20
-Trust as a starting point	21
-Culture eating strategy	21
-What's in for me?	21
-As within as without	21
-Enabling collaboration	21
-Breaking productivity paradigms	21
-The Land where customer is king	22
-Collaborative and productive ergonomics	22
-Culture of Empowerment	23
-History of heroes	23
-The power of the crowds	23
-Managing for results	23
-Learning all the time	23
+> Pardon my French
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+##Prologue
+
+##Chapter 0 - Tipping Point of Crisis (Staging)
+- Postponing, getting deeper into the crisis
+- Limbic system taking over
+- The inevitable decision
+- Retreat to gain speed
+- Building from purpose
+
+##Chapter 2 - Foundation As A Starting Point (Foundation Domain)
+- Evolving digital thinking
+- Focusing on new experiences
+- Connecting to the exponential and infinity
+- Fusing business and technology
+- Architecting for continual change
+- Collaborating in the ecosystem
+- Creating historical journeys
+- Flowing in time and rhythm
+
+##Glassbox Organizations
+- Trust as a starting point
+- Culture eating strategy
+- What's in for me?
+- As within as without
+- Enabling collaboration
+- Breaking productivity paradigms
+- The Land where customer is king
+- Collaborative and productive ergonomics
+##Culture of Empowerment
+- History of heroes
+- The power of the crowds
+Managing for results
+Learning all the time
 Things, own or use them?	23
 What's up to you?	24
 Leading from the bottom up	24
