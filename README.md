@@ -1,6 +1,8 @@
 # The Digerati Saga
 ## a Digital Transformation Story Through Inner Wars
 
+![Book Cover](https://drive.google.com/file/d/1mYI6XJnTs28QdfoKa8LLCfgSkLEHFmtJ/view?usp=sharing)
+
 Copyright © Richard Hechenbichler 2020.
 To Published in 2020 by Amazon Publishing.
 All rights reserved.
@@ -13,16 +15,14 @@ Also wanted to dedicate this book to my wife Samyrah, my sons Josef, Patrick, Pe
 >“Only as a warrior can one withstand the path of knowledge. A warrior cannot complain or regret anything. His life is an endless challenge, and challenges cannot possibly be good or bad. Challenges are simply challenges.”
 ― Carlos Castaneda
 
-This site was built using [GitHub Pages](https://pages.github.com/).
-
 ## Prologue
 The contents of this book have been widely conceived, elaborated and gained shape and form over 4 years ago. Back then, when I came to the realization that the human factor and leadership in digital related projects were the most relevant factors of success of digital endeavors, and the one that expressed greatest results, my mind just clicked to it. Nothing truly original about it, but I can say that once you taste it by yourself, it makes a whole different experience, and takes you to a level that you can't go back, you become aware and conscious. The issue around the digital transformation domain, relies truly in its complexity, variety, quality and maturity of the contents, practices, forums, methods, technical parafernalia and demanded technical skills associated with it. Of course, complexity is relative, for those who have mastered some knowledge, complexity is drastically decreased, or matters can be simplistic, such as Einstein's theory of relativity, the matter here in regards to the digital transformation domain, is that fact that needed to be puzzled together, and could not be looked or experienced from outside, it had to come from original experiences in hands on work, in order to bring true value to the digital transformation theme interested communities. I had to be careful not to over simplify contents to not become superficial, but pass on knowledge to people in a democratized and accessible way, with a strong meaning to back it up their learnings, in search to get us to the next levels of innovation and overcome known challenges in a common sense and normalized structure of body of knowledge. It all started on defining knowledge domains and how comprehensive, broad and relevant they are for the leaders and people engaged in digital developments. That rendered me with a Digital Transformation Canvas.
 
 I have blissfully and lucky on being involved with digital technology projects since I started working at the age of eighteen years old, and it has been an awesome learning journey. I had the chance to experiment, implement and innovate with edgy technologies, practices and methods, and have always been growing professionally. I also like to believe I was lucky because beyond working with edgy technologies, I was working on new departments and areas, so new terrain to be built and exploited.
 
 
-## Chapter 0 - Tipping Point of Crisis (Staging)
-- [Postponing, getting deeper into the crisis](chapters/chapter-0/1.pdf)
+## [Chapter 0 - Tipping Point of Crisis (Staging)](chapters/chapter-0/0-tipping_point_of_crisis.md)
+- [Postponing, getting deeper into the crisis](chapters/chapter-0/1-postponing_getting_deeper_into_the_crisis.md)
   - >"Raise your head, think broadly, openly and quickly, you might have been swallowed by the status quo and operational tasks, making things astray, making you lose sight to where you are heading for."
 - Limbic system taking over
 - The inevitable decision
