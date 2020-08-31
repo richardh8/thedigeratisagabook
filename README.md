@@ -63,14 +63,19 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [Postponing, getting deeper into the crisis](chapters/chapter-0/1-postponing_getting_deeper_into_the_crisis.md)
   - >"Raise your head, think broadly, openly and quickly, you might have been swallowed by the status quo and operational tasks, making things astray, making you lose sight to where you are heading for."
 - Limbic system taking over
+  - >"Even though freezing might save your life at the face of imminent danger, in digital flyaway is not an option, and that's what is going to get you disrupted very quickly, when a fight kicks in your decision, at least you stand a chance to learn and evolve."
 - The inevitable decision
+  - >"You might not know what and how to deal with a world of exponential innovation through digital capabilities and culture revolutions, what you might not settle at all, is to avoid a decision that was already made without your input, the future of business in the new social norms."
 - Retreat to gain speed
-  - > "Sometimes, you might be feeling stuck or not progressing at all, before starting a journey is natural to look to the past, understand the present, in order to produce insights of an enlightened future."
+  - >"Sometimes, you might be feeling stuck or not progressing at all, before starting a journey is natural to look to the past, understand the present, in order to produce insights of an enlightened future."
 - Building from purpose
+  - >"The truth holds different perspectives and interpretations, but your passion to a given problem in society is unquestionable, it can gain many forms and shapes, but it composes the building of intentions, is the true compass and a clear divisor for the decisions and choices you have to make to achieve innovations applying digital capabilities."
 
 ## <img src="/images/hive_foundations.png" width="50"> Chapter 1 - Foundation As A Starting Point (Foundation Domain)
 - Evolving digital thinking
+  - >"To transform the world, which is to transform your social problem impacting people in the society, thinking counter intuitively is key to build the cornerstone of your research, salted with many and fast experimentations which will form your DNA in digital solutions to those problems in ways which no other technology organization would consider."
 - Focusing on new experiences
+  - >"If there is a final and lasting byproduct of any human being experience, is consciouness, a container of experiences lived throughout time. The search for real problems through empathy, are the supporting components and drivers of digital innovation.
 - Connecting to the exponential and infinity
 - Fusing business and technology
 - Architecting for continual change
