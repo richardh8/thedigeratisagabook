@@ -68,7 +68,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
   - > "Sometimes, you might be feeling stuck or not progressing at all, before starting a journey is natural to look to the past, understand the present, in order to produce insights of an enlightened future."
 - Building from purpose
 
-## <img src="/images/hive_foundations.png" width="100"> Chapter 1 - Foundation As A Starting Point (Foundation Domain)
+## <img src="/images/hive_foundations.png" width="50"> Chapter 1 - Foundation As A Starting Point (Foundation Domain)
 - Evolving digital thinking
 - Focusing on new experiences
 - Connecting to the exponential and infinity
@@ -78,7 +78,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - Creating historical journeys
 - Flowing in time and rhythm
 
-## Chapter 2 - Glassbox Organizations (Customer & Employee Domain)
+## <img src="/images/hive_customer-employee.png" width="50"> Chapter 2 - Glassbox Organizations (Customer & Employee Domain)
 - Trust as a starting point
 - Culture eating strategy
 - What's in for me?
@@ -88,7 +88,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - The Land where customer is king
 - Collaborative and productive ergonomics
 
-##  Chapter 3 - Culture of Empowerment (People Domain)
+##  <img src="/images/hive_people.png" width="50"> Chapter 3 - Culture of Empowerment (People Domain)
 - History of heroes
 - The power of the crowds
 - Managing for results
@@ -98,7 +98,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - Leading from the bottom up
 - Your worst enemy, you
 
-## Chapter 4 - Commiting to values (Values Domain)
+## <img src="/images/hive_value.png" width="50"> Chapter 4 - Commiting to values (Values Domain)
 - Accepting the duality of the world
 - Sense of justice
 - Transparency is everything
@@ -108,7 +108,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - Zero negative impact, but high positive ones
 - Comprehending abundance and scarcity
 
-## Chapter 5 - Ultimate User Experience (User Experience Domain)
+## <img src="/images/hive_uxs.png" width="50"> Chapter 5 - Ultimate User Experience (User Experience Domain)
 - Going out to the streets
 - Addiction to customer problems
 - New experiences as business opportunities
@@ -118,7 +118,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - Sense of belonging
 - White is the new basic
 
-## Chapter 6 - Technology as Levers (Technology Domain)
+## <img src="/images/hive_technology.png" width="50"> Chapter 6 - Technology as Levers (Technology Domain)
 - What was really your problem?
 - The incredible machine
 - Where, how and when needed
@@ -128,7 +128,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - There is an app for that
 - The blockchain fungibility
 
-## Chapter 7 - Partnerships to augment powers (Partners Domain)
+## <img src="/images/hive_partners.png" width="50"> Chapter 7 - Partnerships to augment powers (Partners Domain)
 - Partnership as source of innovation
 - Assembling your value chain
 - Dialoging your relationships
@@ -138,7 +138,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - Startup as SaaS
 - Capital Ventures
 
-## Chapter 8 - Business Driven Technology (Business Domain)
+## <img src="/images/hive_business.png" width="50"> Chapter 8 - Business Driven Technology (Business Domain)
 - Hacking your business
 - P&L is result of a valued ecosystem
 - Velocity and learning
