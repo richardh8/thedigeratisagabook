@@ -108,7 +108,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - Zero negative impact, but high positive ones
 - Comprehending abundance and scarcity
 
-## <img src="/images/hive_uxs.png" width="50"> Chapter 5 - Ultimate User Experience (User Experience Domain)
+## <img src="/images/hive_ux.png" width="50"> Chapter 5 - Ultimate User Experience (User Experience Domain)
 - Going out to the streets
 - Addiction to customer problems
 - New experiences as business opportunities
@@ -147,6 +147,8 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - Ghost and witch hunting
 - Storytelling, not specifications
 - Making everything versus connecting everything
+
+## Digital Badges (Roles In Digital Culture)
 
 ## Epilogue	
 
