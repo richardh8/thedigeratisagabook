@@ -68,7 +68,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
   - > "Sometimes, you might be feeling stuck or not progressing at all, before starting a journey is natural to look to the past, understand the present, in order to produce insights of an enlightened future."
 - Building from purpose
 
-## ![](/images/hive_foundations.png =100x90) Chapter 1 - Foundation As A Starting Point (Foundation Domain)
+## ![Foundations](/images/hive_foundations.png){:height="100px" width="90px"} Chapter 1 - Foundation As A Starting Point (Foundation Domain)
 - Evolving digital thinking
 - Focusing on new experiences
 - Connecting to the exponential and infinity
