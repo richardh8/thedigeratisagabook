@@ -9,6 +9,9 @@
 
 >In the movie "Contact", Ellie is a radio astronomer who, after much dedication, discovers and interprets an extraterrestrial signal. In this journey she constantly learns about knowledge from different areas, including technology, engineering, data, and biology to build a machine to travel in space-time.
 
+## Rationale
+
+## Abstract
 The journey of digital transformation affects certain values ​​and principles that not every organization has embedded in its DNA and its foundation is in people's mentality and psychology. Statistical studies show that the main factor of positive impact on results in organizations is a psychologically safe environment, as it produces teams with high performance and a higher frequency of generating innovations. What is essential for any organization to remain competitive and relevant. The ability to adapt quickly to new customer expectations and trends in the digital environment are also factors that are constantly experienced.
 Not accepting that the world is increasingly dynamic and causes uncertainty and continue to act in an excessively planned way, with long-term programs and projects, not only result in financial losses, but also in negative impacts on people's morale and engagement. This is where the philosophy of experimentation comes in to allow greater understanding and understanding of problems and solutions, and most importantly, rapid learning, before committing to greater investments in the production, development and delivery of new services. This practice reflects a kind of laboratory, where formulas can be tested and validated, before seeking production and replication at scale.
 
@@ -19,3 +22,47 @@ It has to be understood that having a psychologically-safe environment, helps to
 
 The more people involved in a company's success, the easier it is to understand its customer base and make informed decisions that generate business value. Leaders who encourage each employee to contribute their ideas create a viral effect, resulting in more people engaged in understanding their customers and becoming part of the solution. This type of training leads people to be more passionate about what they do, loyal and motivated.
 Learning through experimentation is to encourage each person to contribute and create a culture that will help the organization obtain valuable information and transform the customer experience.
+
+## Algorithm
+
+```
+import sys
+from random import seed
+from random import randint
+
+domain = ("customer_employees", "people", "value", "ux", "technology", "partners", "business")
+capability = ("iot", "mobile", "social_media", "big_data", "analytcs", "artificial_intelligence", "machine_learning", "cloud")
+maturity = ("learner", "apprentice", "practitioner", "experimenter", "innovator")
+
+class DigitalDNA(object):
+	def __init__(self, domain, capability, maturity, failures, learnings, speed):
+		self.domain = domain
+		self.capability = capability
+		self.maturity = capability
+		self.failures = failures
+		self.learnings = learnings
+		self.speed = speed
+
+experiments = []
+trials = 10
+evolutions = 0
+
+try:
+	for x in range(trials):
+		experiments.append(DigitalDNA(
+			domain[randint(0, len(domain)-1)],
+			capability[randint(0, len(capability)-1)],
+			maturity[randint(0, len(maturity)-1)],
+			"failure point 1",
+			"learning point 1",
+			2
+			))
+		evolutions += 1
+	print(experiments[0].domain, evolutions)
+except:
+	print("Unexpected error:", sys.exc_info())
+```
+
+## Narrative
+
+## Examples
