@@ -27,38 +27,98 @@ Learning through experimentation is to encourage each person to contribute and c
 
 ```
 import sys
-from random import seed
 from random import randint
 
-domain = ("customer_employees", "people", "value", "ux", "technology", "partners", "business")
-capability = ("iot", "mobile", "social_media", "big_data", "analytcs", "artificial_intelligence", "machine_learning", "cloud")
-maturity = ("learner", "apprentice", "practitioner", "experimenter", "innovator")
+#Domains assossiated with experiments, being one or across many
+domain = (
+	{ "name": "customer_employees", "trials": 0 },
+	{ "name": "people", "trials": 0 },
+	{ "name": "value",  "trials": 0 },
+	{ "name": "ux",  "trials": 0 },
+	{ "name": "technology",  "trials": 0 },
+	{ "name": "partners",  "trials": 0 },
+	{ "name": "business", "trials": 0 }
+	)
+#
+capability = (
+	{ "name": "iot", "trials": 0 },
+	{ "name": "mobile", "trials": 0 }, 
+	{ "name": "social_media", "trials": 0 },
+	{ "name": "big_data", "trials": 0 },
+	{ "name": "analytcs", "trials": 0 },
+	{ "name": "artificial_intelligence", "trials": 0 },
+	{ "name": "machine_learning", "trials": 0 },
+	{ "name": "cloud", "trials": 0 },
+	{ "name": "api", "trials": 0 },
+	{ "name": "cybersecurity", "trials": 0 }
+	)
+#
+maturity = (
+	"learner", "apprentice", "practitioner", 
+	"experimenter", "transformer", "innovator"
+	)
+
+evolutions = 0
+experiments = []
+
+trials = 2
+
 
 class DigitalDNA(object):
 	def __init__(self, domain, capability, maturity, failures, learnings, speed):
 		self.domain = domain
 		self.capability = capability
-		self.maturity = capability
+		self.maturity = maturity
 		self.failures = failures
 		self.learnings = learnings
 		self.speed = speed
 
-experiments = []
-trials = 10
-evolutions = 0
+def try_domains():
+	domains = [];
+	variations = randint(0, 8)
+	for i in range(variations):
+		domains.append(domain[randint(0, len(domain)-1)]["name"])
+	return domains
+
+def try_capabilities():
+	capabilities = [];
+	variations = randint(0, 8)
+	for i in range(variations):
+		capabilities.append(capability[randint(0, len(capability)-1)]["name"])
+	return capabilities
+
+
+def track_maturity(domains, capabilities):
+	#if any(x in paid[j] for x in d):
+	
+	return ""
+
+def show_digital_dna_evolution(experiments):
+	for i in range(len(experiments)):
+		print("Trial ", i,
+			experiments[i].domain,
+			experiments[i].capability,
+			experiments[i].maturity,
+			experiments[i].failures,
+			experiments[i].learnings,
+			experiments[i].speed,
+			sep="\n"
+			)
 
 try:
-	for x in range(trials):
-		experiments.append(DigitalDNA(
-			domain[randint(0, len(domain)-1)],
-			capability[randint(0, len(capability)-1)],
-			maturity[randint(0, len(maturity)-1)],
-			"failure point 1",
-			"learning point 1",
-			2
-			))
+	for i in range(trials):
+		experiments.append(
+			DigitalDNA(
+				try_domains(),
+				try_capabilities(),
+				maturity[randint(0, len(maturity)-1)],
+				["failure point 1", "failure point 2", "failure point 3"],
+				["learning point 1", "learning point 2", "learning point 3"],
+				2
+			)
+		)
 		evolutions += 1
-	print(experiments[0].domain, evolutions)
+	show_digital_dna_evolution(experiments)
 except:
 	print("Unexpected error:", sys.exc_info())
 ```
