@@ -7,3 +7,6 @@ Organizations and businesses are subject to indulgence at many stages of their e
 With some insights of what's going on in the organization, and recognizing that change is needed, the next stage, if by passing and overcoming denial - due to lack of interest of executives as they don't see themselves there anymore in the medium and long term - is the debate on what could be done to regain strength and build the future through people's engagement.
 
 Thus more time passes by and no risky or auspicious action is made, more of the same, doing more with less, cost cuts and not lasting promises. Which usually ends up with the CEOs stepping down, a natural act of fear, dark clouds over the entire culture of the organization, with usually three outputs, people will leave, people will stay to see where it gets, people suffer alone in the middle of many others.
+
+
+[<< previous](0-tipping_point_of_crisis.md) | [next >>]()
