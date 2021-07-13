@@ -88,8 +88,9 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - Building from purpose
   - >"The truth holds different perspectives and interpretations, but your passion to a given problem in society is unquestionable, it can gain many forms and shapes, but it composes the building of intentions, is the true compass and a clear divisor for the decisions and choices you have to make to achieve innovations applying digital capabilities."
 
+## [Chapter 1 - Foundation As a Starting Point (Engaging)](chapters/chapter-1/0-foundation_as_a_ starting_point.md)
 ## <img src="/images/hive_foundations.png" width="50"> Chapter 1 - Foundation As A Starting Point (Foundation Domain)
-- Evolving digital thinking
+- [Evolving digital thinking](chapters/chapter-1/1-evolving_digital_thinking.md)
   - >"To transform the world, which is to transform your social problem impacting people in the society, thinking counter intuitively is key to build the cornerstone of your research, salted with many and fast experimentations which will form your DNA in digital solutions to those problems in ways which no other technology organization would consider."
 - Focusing on new experiences
   - >"If there is a final and lasting byproduct of any human being experience, is consciouness, a container of experiences lived throughout time. The search for real problems through empathy, are the supporting components and drivers of digital innovation.
