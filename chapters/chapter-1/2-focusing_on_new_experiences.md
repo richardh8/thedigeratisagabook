@@ -4,7 +4,7 @@
 
 | Her |
 | :---: |
-|![](../../images/focusing_on_new experiences.png)|
+|![](https://github.com/richardh8/thedigeratisagabook/blob/master/images/focusing_on_new%20experiences.png)|
 |Search for real problems and produce new solutions|
 
 >In the movie “Her”, Theodore meets Samantha, an Artificial Intelligence with whom he falls deeply in love. She satiated in him an immense emptiness of a modern solitary man. 
