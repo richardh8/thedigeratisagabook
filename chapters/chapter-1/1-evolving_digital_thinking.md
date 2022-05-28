@@ -20,4 +20,4 @@ It has to be understood that having a psychologically-safe environment, helps to
 The more people involved in a company's success, the easier it is to understand its customer base and make informed decisions that generate business value. Leaders who encourage each employee to contribute their ideas create a viral effect, resulting in more people engaged in understanding their customers and becoming part of the solution. This type of training leads people to be more passionate about what they do, loyal and motivated.
 Learning through experimentation is to encourage each person to contribute and create a culture that will help the organization obtain valuable information and transform the customer experience.
 
-[<< previous](https://github.com/richardh8/thedigeratisagabook/blob/master/chapters/chapter-1/0-foundation_as_a_%20starting_point.md) | [next >>](1)
+[<< previous](0-foundation_as_a_starting_point.md) | [next >>](2-focusing_on_new_experiences.md)
