@@ -17,4 +17,4 @@ This search for new experiences arises from researching and evaluating existing 
 
 Once the opportunities brought by new experiences are detected, it is essential to carry out conceptual tests with existing users and new users to quickly collect comments and suggestions, as well as start the co-creative process in the design of solution proposals, and this is not only the responsibility of the service , but how to learn, buy, consume, and how will this experience evolve in the future. The conceptualization and definition process cannot open spaces for investment risks and losses that can only be detected after the delivery of the experience, so the participation of the user community is of paramount importance, as well as revealing greater realism and expansion of details that can add or disaggregate value to the end-to-end experience.
 
-[<< previous](1-evolving_digital_thinking.md) | [next >>](1)
+[<< previous](1-evolving_digital_thinking.md) | [next >>](3-connecting_to_the_exponential_and_infinity.md)
