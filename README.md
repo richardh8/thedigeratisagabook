@@ -89,13 +89,13 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [Building from purpose](chapters/chapter-0/5-building_from_purpose.md)
   - >"The truth holds different perspectives and interpretations, but your passion to a given problem in society is unquestionable, it can gain many forms and shapes, but it composes the building of intentions, is the true compass and a clear divisor for the decisions and choices you have to make to achieve innovations applying digital capabilities."
 
-## <img src="/images/hive_foundations.png" width="50"> [Chapter 1 - Foundation As a Starting Point (Foundation Domain)](chapters/chapter-1/0-foundation_as_a_ starting_point.md)
+## <img src="/images/hive_foundations.png" width="50"> [Chapter 1 - Foundation As a Starting Point (Foundation Domain)](chapters/chapter-1/0-foundation_as_a_starting_point.md)
 - [Evolving digital thinking](chapters/chapter-1/1-evolving_digital_thinking.md)
   - >"To transform the world, which is to transform your social problem impacting people in the society, thinking counter intuitively is key to build the cornerstone of your research, salted with many and fast experimentations which will form your DNA in digital solutions to those problems in ways which no other technology organization would consider."
 - [Focusing on new experiences](chapters/chapter-1/2-focusing_on_new_experiences.md)
   - >"If there is a final and lasting byproduct of any human being experience, is consciouness, a container of experiences lived throughout time. The search for real problems through empathy, are the supporting components and drivers of digital innovation.
-- Connecting to the exponential and infinity
-- Fusing business and technology
+- [Connecting to the exponential and infinity](chapters/chapter-1/3-connecting_to_the_exponential_and_infinity.md)
+- [Fusing business and technology](chapters/chapter-1/4-fusing_business_and_technology.md)
 - Architecting for continual change
 - Collaborating in the ecosystem
 - Creating historical journeys
