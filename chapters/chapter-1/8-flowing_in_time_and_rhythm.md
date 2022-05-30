@@ -21,4 +21,4 @@ What if your organization was always prepared for continuous evolution? Working 
 
 It is a radical change in the paradigm of the people who form an organization. They must face the challenge of running an operation in a stable and productive way, while continually questioning and improving that same operation, in tune with disruptive innovations that can come and radically change those same operations. They must be open to testing new ideas. Sometimes those ideas that come in the shower. And they must be continually open to evolution and transformation. They must live these evolutions continuously, as if the entire organization were a single, large stream of demands that continually deliver improvements and disruptions.
 
-[<< previous](7-creating_historical_journeys) | [next >>](../../0-glassbox_organizations.md)
+[<< previous](7-creating_historical_journeys) | [next >>](../chapter-2/0-glassbox_organizations.md)
