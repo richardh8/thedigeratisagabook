@@ -9,23 +9,22 @@
 
 >In the movie “The Wolf of Wall Street”, Jordan Belfort leads Stratton Oakmont day-to-day using various types of rewards for his colleagues, he treated them as colleagues, and they celebrated the success of the results together.
 
-Entender a cultura organizacional é determinante para o sucesso dos negócios. Ao se fazer a pergunta “Como você se sente trabalhando aqui?”, pode-se explorar o quanto as pessoas envolvidas em uma organização estão alinhadas a ela.
+Understanding organizational culture is crucial to business success. By asking the question “How do you feel working here?”, you can explore how much the people involved in an organization are aligned with it.
 
-A cultura organizacional está fundida aos significados e propósitos da organização. E é definida principalmente através dos significados e propósitos que as pessoas dão a essa organização.
+The organizational culture is fused to the meanings and purposes of the organization. And it is primarily defined through the meanings and purposes that people give to that organization.
 
-No momento em que uma organização deseja implementar uma nova estratégia, a chance de sucesso está diretamente ligada ao seu alinhamento aos valores e cultura organizacionais. Quanto maior for esse alinhamento, maior será a chance de sucesso na implementação. Caso um estratégia estabelecida estiver desalinhada a cultura da organização, isto será sentido pelas pessoas como uma traição. Esta situação causa uma grave quebra de confiança e de valores. E em muitos casos, inviabiliza por completo que os resultados dessa estratégia sejam atingidos.
+When an organization wants to implement a new strategy, the chance of success is directly linked to its alignment with organizational values ​​and culture. The greater this alignment, the greater the chance of successful implementation. If an established strategy is out of alignment with the organization's culture, this will be felt by people as a betrayal. This situation causes a serious breach of trust and values. And in many cases, it completely prevents the results of this strategy from being achieved.
 
-Uma transformação digital é considerada uma estratégia com objetivos amplos cobrindo a expansão dos negócios ou até a garantia de sua existência diante de uma visível ruptura de mercado. Uma transformação digital sempre almeja modificar elementos profundos de uma organização, dos seus processos internos, a forma de pensar e agir de seus colaboradores e, até mesmo, criar ou modificar por completo seus modelos de negócio.
+A digital transformation is considered a strategy with broad objectives covering the expansion of the business or even the guarantee of its existence in the face of a visible market disruption. A digital transformation always aims to change deep elements of an organization, its internal processes, the way its employees think and act, and even create or completely modify their business models.
 
-Assim, é fundamental entender a cultura organizacional, a qual, por vezes, evolui ao longo do tempo pelas ações das pessoas envolvidas nessa organização. E alinhar a transformação digital a esses valores e cultura. Desta forma, a chance de aceitação tanto interna pelos colaboradores como externa pelos clientes e fornecedores será muito maior, bem como, o sucesso dessa jornada de transformação terá muito mais chance de sucesso.
+Thus, it is essential to understand the organizational culture, which sometimes evolves over time through the actions of the people involved in that organization. And align digital transformation with those values and culture. In this way, the chance of acceptance both internally by employees and externally by customers and suppliers will be much greater, as well as the success of this transformation journey will have a much greater chance of success.
 
-No momento em que se vê funcionários executando uma estratégia sem precisar de direcionamentos e gestão sobre suas atividades é que se pode realizar que tal estratégia está perfeitamente alinhada à cultura da organização. Nesses momentos, tanto a organização como seus funcionários ganham e o sucesso de jornadas como uma transformação digital está garantido.
-O valor do alinhamento da Cultura à Estratégia
+When you see employees executing a strategy without needing direction and management over their activities, it is possible to realize that such a strategy is perfectly aligned with the organization's culture. In these moments, both the organization and its employees win and the success of journeys such as a digital transformation is guaranteed. The value of aligning Culture with Strategy.
 
-    Entendimento de que culturas são resilientes, mesmo durante crises;
-    Pessoas alinhadas a cultura organizacional estarão contigo nos momentos difíceis mesmo que uma estratégia de recuperação ainda não tenha sido estabelecida;
-    Em uma crise de imagem, os colaboradores defendem a organização ao invés de se unirem ao ataque;
-    Pessoas são leais a culturas (significados e propósitos) e não a estratégias;
-    Estratégias alinhadas a cultura organizacional são sentidas pelas pessoas como positivas e geram aumentam a confiança.
+Understanding that cultures are resilient, even during crises;
+People aligned with the organizational culture will be with you in difficult times even if a recovery strategy has not yet been established;
+In an image crisis, employees defend the organization rather than joining the attack;
+People are loyal to cultures (meanings and purposes) and not to strategies;
+Strategies aligned with organizational culture are perceived by people as positive and generate confidence.
 
 [<< previous](1-trust_as_a_starting_point.md) | [next >>](3-whats_in_for_me.md)
