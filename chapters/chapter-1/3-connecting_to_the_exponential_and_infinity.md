@@ -1,6 +1,6 @@
 # Connecting to the exponential and infinity
 
->"To transform the world, which is to transform your social problem impacting people in the society, thinking counter intuitively is key to build the cornerstone of your research, salted with many and fast experimentations which will form your DNA in digital solutions to those problems in ways which no other technology organization would consider."
+>"The world nowadays provides us all with so many bodies of knowledge, technologies, products and services, nearing an infinite set of concatenations and combinations possible. You must remove your bias and consider the possibilities of tapping your digital transformation journey to grow your business at exponential scales."
 
 | The Hitchhiker's Guide to the Galaxy |
 | :---: |
