@@ -23,4 +23,4 @@ The definition of the challenge needs to follow OKR (Objective Key Results) and 
 
 These challenges also have their record and progress in a natural way and integrated with day-to-day activities, and are supported by the history that is being produced, which can be linked through photographic records, videos, blogs, comments, meetings, logs. decision making, thus resulting in a base of experience and knowledge that is visible and accessible throughout the organization.
 
-[<< previous](6-collaborating_in_the_ecosystem) | [next >>](8-flowing_in_time_and_rhythm.md)
+[<< previous](6-collaborating_in_the_ecosystem.md) | [next >>](8-flowing_in_time_and_rhythm.md)
