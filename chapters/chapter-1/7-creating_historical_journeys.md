@@ -4,7 +4,7 @@
 
 | The Lord of the Rings |
 | :---: |
-|![](../../images/creating_historical_journeys.png)|
+|![](../../images/ creating_historical_journeys.png)|
 |Great challenges produce learning and engagement|
 
 >In the "The Lord of the Rings" movie trilogy, Gandalf leads The Fellowship of the Ring to have Frodo throw the ring into the volcano of Mount Doom in order to destroy Mordor and the evil empire once and for all. On this journey, many stories are told about the races and species of Middle-earth, uniting them to a common purpose, and forming a bond of lasting friendship.
