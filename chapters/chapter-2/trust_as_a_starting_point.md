@@ -33,4 +33,4 @@ the value of trust
     Trust-based environments tend to have higher productivity, performance, and lower cost.
     Trust empowers and gives greater opportunities to create solutions, allowing innovation and personal motivation.
 
-[<< previous](3-connecting_to_the_exponential_and_infinity.md) | [next >>](5-architecting_for_continual_change.md)
+[<< previous](0-glassbox_organizations.md) | [next >>](2-culture_eating_strategy.md)
