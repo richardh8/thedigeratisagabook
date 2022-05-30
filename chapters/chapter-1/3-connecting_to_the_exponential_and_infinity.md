@@ -21,4 +21,4 @@ The construction of this opening will develop exponential purposes that need to 
 
 To avoid rupture, it is necessary to break the taboos of an organization and to embrace this purpose, creating an evolution from the current culture to a new one that is in line with the exponential culture.
 
-[<< previous](0-foundation_as_a_starting_point.md) | [next >>](2-focusing_on_new_experiences.md)
+[<< previous](2-focusing_on_new_experiences.md) | [next >>](4-fusing_business_and_technology.md)
