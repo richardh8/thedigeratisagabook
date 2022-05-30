@@ -1,6 +1,6 @@
 # Fusing business and technology
 
->""
+>"Dive deep into thinking about your business, now think how you could code it, program it, or be open to new business opportunities that are digital native, promoting the disruption of status-quo processes and business models."
 
 | Iron Man |
 | :---: |
