@@ -9,4 +9,4 @@ With some insights of what's going on in the organization, and recognizing that 
 Thus more time passes by and no risky or auspicious action is made, more of the same, doing more with less, cost cuts and not lasting promises. Which usually ends up with the CEOs stepping down, a natural act of fear, dark clouds over the entire culture of the organization, with usually three outputs, people will leave, people will stay to see where it gets, people suffer alone in the middle of many others.
 
 
-[<< previous](0-tipping_point_of_crisis.md) | [next >>]()
+[<< previous](0-tipping_point_of_crisis.md) | [next >>](2-limbic_system_taking_over.md)
