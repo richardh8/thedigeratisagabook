@@ -27,4 +27,4 @@ Management 3.0 is a revolution in the management paradigm globally, bringing tog
 
 In a journey of digital transformation in which it is hoped to build a promising future for the organization, and which demands agility, focus, engagement and why not, even animation, introducing up-to-date leadership and management practices is essential to create bonds of trust and extract the real value of willing talents.
 
-[<< previous](6-whats_up_to_you.md) | [next >>]8-your_worst_enemy_you.md)
+[<< previous](6-whats_up_to_you.md) | [next >>](8-your_worst_enemy_you.md)
