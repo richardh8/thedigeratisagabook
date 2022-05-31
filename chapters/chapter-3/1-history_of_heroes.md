@@ -19,4 +19,4 @@ The role of organizations is to promote and encourage the use of storytelling, a
 
 In a Digital Transformation, it is important that the journey can be recorded and that it can create the engagement of all its participants. The Mythic Hero's Journey is a storytelling format that can be used by organizations as a tool with which to learn to create stories and plots in the context of the organization. It creates a strong connection between people, allowing them to feel like part of the story. In general, The Mythic Journey of the Hero follows a plot where one must abandon a condition, find the source of life and, through sacrifices, reach a new consciousness. The addition of a story containing heroes helps us to seek the best version of ourselves, taking into account our strengths and weaknesses and brings a simple way of learning, empathy and engagement.
 
-[<< previous](0-culture_of_empowerment.md) | [next >>](2-he_power_of_the_crowds.md)
+[<< previous](0-culture_of_empowerment.md) | [next >>](2-the_power_of_the_crowds.md)
