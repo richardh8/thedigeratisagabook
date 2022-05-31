@@ -1,13 +1,4 @@
-# TBD
-
->""
-
-| Movie |
-| :---: |
-|![](../../images/fusing_business_and_technology.png)|
-|Description|
-
->TBD
+# Culture of Empowerment
 
 Tbd
 
