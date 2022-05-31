@@ -2,7 +2,7 @@
 
 >""
 
-| Movie |
+| Selma |
 | :---: |
 |![](../../images/the_power_of_the_crowds.png)|
 |People supporting people, together we do much more|
