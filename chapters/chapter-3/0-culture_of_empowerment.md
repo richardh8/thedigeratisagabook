@@ -11,4 +11,4 @@
 
 Tbd
 
-[<< previous](3-connecting_to_the_exponential_and_infinity.md) | [next >>](5-architecting_for_continual_change.md)
+[<< previous](0-culture_of_empowerment.md) | [next >>](2-history_of_heroes.md)
