@@ -2,7 +2,7 @@
 
 >""
 
-| Movie |
+| Gandhi |
 | :---: |
 |![](../../images/leading_from_the_bottom_up.png)|
 |Winning people's minds is easy, but their hearts...|
