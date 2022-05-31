@@ -11,4 +11,4 @@
 
 Tbd
 
-[<< previous](0-culture_of_empowerment.md) | [next >>](1-history_of_heroes.md)
+[<< previous](../chapter-2/8-collaborative_and_productive_ergonomics.md) | [next >>](1-history_of_heroes.md)
