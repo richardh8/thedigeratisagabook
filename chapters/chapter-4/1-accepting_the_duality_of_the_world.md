@@ -2,7 +2,7 @@
 
 >""
 
-| Movie |
+| The Matrix |
 | :---: |
 |![](../../images/accepting_the_duality_of_the_world.png)|
 |Real world and Digital, delivering value for both worlds|
