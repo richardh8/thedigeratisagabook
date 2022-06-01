@@ -96,40 +96,40 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
   - >"If there is a final and lasting byproduct of any human being experience, is consciouness, a container of experiences lived throughout time. The search for real problems through empathy, are the supporting components and drivers of digital innovation.
 - [Connecting to the exponential and infinity](chapters/chapter-1/3-connecting_to_the_exponential_and_infinity.md)
 - [Fusing business and technology](chapters/chapter-1/4-fusing_business_and_technology.md)
-- Architecting for continual change
-- Collaborating in the ecosystem
-- Creating historical journeys
-- Flowing in time and rhythm
+- [Architecting for continual change](chapters/chapter-1/5-architecting_for_continual_change.md)
+- [Collaborating in the ecosystem](chapters/chapter-1/6-collaborating_in_the_ecosystem.md)
+- [Creating historical journeys](chapters/chapter-1/7-creating_historical_journeys.md)
+- [Flowing in time and rhythm](chapters/chapter-1/8-flowing_in_time_and_rhythm.md)
 
-## <img src="/images/hive_customer-employee.png" width="50"> Chapter 2 - Glassbox Organizations (Customer & Employee Domain)
-- Trust as a starting point
-- Culture eating strategy
-- What's in for me?
-- As within as without
-- Enabling collaboration
-- Breaking productivity paradigms
-- The Land where customer is king
-- Collaborative and productive ergonomics
+## <img src="/images/hive_customer-employee.png" width="50"> [Chapter 2 - Glassbox Organizations (Customer & Employee Domain)](chapters/chapter-2/0-glassbox_organizations.md)
+- [Trust as a starting point](chapters/chapter-2/1-trust_as_a_starting_point.md)
+- [Culture eating strategy](chapters/chapter-2/2-culture_eating_strategy.md)
+- [What's in for me?](chapters/chapter-2/3-whats_in_for_me.md)
+- [As within as without](chapters/chapter-2/4-as_within_as_without.md)
+- [Enabling collaboration](chapters/chapter-2/5-enabling_collaboration.md)
+- [Breaking productivity paradigms](chapters/chapter-2/6-breaking_productivity_paradigms.md)
+- [The Land where customer is king](chapters/chapter-2/7-the_land_where_customer_is_king.md)
+- [Collaborative and productive ergonomics](chapters/chapter-2/8-collaborative_and_productive_ergonomics.md)
 
-##  <img src="/images/hive_people.png" width="50"> Chapter 3 - Culture of Empowerment (People Domain)
-- History of heroes
-- The power of the crowds
-- Managing for results
-- Learning all the time
-- Things, own or use them?
-- What's up to you?
-- Leading from the bottom up
-- Your worst enemy, you
+##  <img src="/images/hive_people.png" width="50"> [Chapter 3 - Culture of Empowerment (People Domain)](chapters/chapter-3/0-culture_of_empowerment.md)
+- [History of heroes](chapters/chapter-3/1-history_of_heroes.md)
+- [The power of the crowds](chapters/chapter-3/2-the_power_of_the_crowds.md)
+- [Managing for results](chapters/chapter-3/3-managing_for_results.md)
+- [Learning all the time](chapters/chapter-3/4-learning_all_the_time.md)
+- [Things, own or use them?](chapters/chapter-3/5-things_own_or_use_them.md)
+- [What's up to you?](chapters/chapter-3/6-whats_up_to_you.md)
+- [Leading from the bottom up](chapters/chapter-3/7-leading_from_the_bottom_up.md)
+- [Your worst enemy, you](chapters/chapter-3/8-your_worst_enemy_you.md)
 
-## <img src="/images/hive_value.png" width="50"> Chapter 4 - Commiting to values (Values Domain)
-- Accepting the duality of the world
-- Sense of justice
-- Transparency is everything
-- The problem is yours
-- Designing for significance
-- Diversity as a platform
-- Zero negative impact, but high positive ones
-- Comprehending abundance and scarcity
+## <img src="/images/hive_value.png" width="50"> [Chapter 4 - Commiting to values (Values Domain)](chapters/chapter-4/0-commiting_to_values.md)
+- [Accepting the duality of the world](1-accepting_the_duality_of_the_world.md)
+- [Sense of justice](chapters/chapter-4/2-sense_of_justice.md)
+- [Transparency is everything](chapters/chapter-4/3-transparency_is_everything.md)
+- [The problem is yours](chapters/chapter-4/4-the_problem_is_yours.md)
+- [Designing for significance](chapters/chapter-4/5-designing_for_significance.md)
+- [Diversity as a platform](chapters/chapter-4/6-diversity_as_a_platform.md)
+- [Zero negative impact, but high positive ones](chapters/chapter-4/7-zero_negative_impact_but_high_positive_ones.md)
+- [Comprehending abundance and scarcity](chapters/chapter-4/8-comprehending_abundance_and_scarcity.md)
 
 ## <img src="/images/hive_ux.png" width="50"> Chapter 5 - Ultimate User Experience (User Experience Domain)
 - Going out to the streets
