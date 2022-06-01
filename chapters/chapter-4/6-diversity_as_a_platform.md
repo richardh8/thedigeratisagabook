@@ -2,7 +2,7 @@
 
 >""
 
-| Movie |
+| The Chronicles of Narnia: Prince Caspian |
 | :---: |
 |![](../../images/diversity_as_a_platform.png)|
 |Different perspectives enrich the company's strategy|
