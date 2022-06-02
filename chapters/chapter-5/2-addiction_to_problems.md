@@ -1,14 +1,20 @@
-# TBD
+# Addiction to problems
 
 >""
 
-| Movie |
+| Margin Call |
 | :---: |
-|![](../../images/tbd.png)|
-|Description|
+|![](../../images/addiction_to_problems.png)|
+|attitude and zero tolerance for problems|
 
->TBD
+>In the movie "Margin Call", Peter Sullivan, a very smart and curious accountant, correlates information from the company he works for and discovers that the stock market will have a big drop, and that this would lead to the worst economic crisis in the world compared to American stock market crash in 1929.
 
-Tbd
+Organizations create their own entropies through the acculturation and austere hierarchy of relationships between people, restricting them merely to the execution of tasks, discouraging free thinking, and consequently roboticizing processes, losing their intelligence, learning and continuous improvement. This situation is not restricted only to the organization, because what happens inside, I also reflected outside, and customers not only perceive how they interact with the experiences lived internally at the company, through interactions with employees, processes, tools and channels, creating disenchantment and the loss of customers and revenue.
 
-[<< previous](tbd) | [next >>](tbd)
+It is necessary that leaders promote a change in behavior and attitude towards the organization, valuing and recognizing free thinking, and that people must incessantly raise perceived problems, and promote and encourage the practice of understanding the problems, and that they can contribute with ideas, or even introducing the topic so that a team better understands the problem and brings improvements, changes, or even the elimination of a process that generates more problems than results. Let's not confuse problems with complaints from employees, it is necessary to discern what is one and the other, and that information, evidence, understanding of the impact of the problem is collected, it is necessary to have empathy for the problem, and not resistance and frustration so that not merely a complaint. And we can't mistake customer complaints as a natural reflection of doing business, these complaints are problems yes, and not merely a metric measured by customer support personnel, zero tolerance for customer complaints is required. Understanding problems is the most important task for the design of the solution, and it is the fundamental spring for the process of improvements, changes and innovations. It's not bad to have problems, the bad thing is to ignore them, neglect them and not confront them, because in them are the great opportunities. We cannot create a culture that punishes or denigrates employees who have problems. An organization that aligns itself with creating delightful experiences is a customer-oriented organization, and a customer-oriented organization is a problem-oriented organization.
+
+It is easy to understand the problems, the difficult thing is to have an adequate attitude towards the given problem. A problem-oriented organization knows how to qualify, quantify and attack the problem quickly and continuously. The hardest thing is to detect problems that are not evident, that are not formally recorded, and that are not obvious, and often it is the company's culture that has covered its ears, through one-way directed communication, restricting employees and even customers in being able to have two-way communication.
+
+The organization can look for existing problems in the market, in its customers, its services and products, or it can reformulate the problem and bring value propositions in its experience that innovate and transform people's lives. Even if you have conceived a new service or product, which you blindly believe in its value and potential demand in the market, you will always be addressing a problem that the market did not see clearly and objectively. Reshaping and reimagining the customer experience to work around problems and solution challenges is also a viable strategy, as entropy disappears and the problem as a whole is reviewed through a new look and structural thinking to solve it. Persisting on a solution and evolving it may not have any effect on the results, so discussing and expanding the problem by uniting people inside and outside your organization and your client is the task that should take the most time and dedication in building yours. digital transformation, in order to create an unfair proposal value against the competition, and attract market attention through innovation in bringing a new experience of using the solution, addressing real problems with high value and impact.
+
+[<< previous](1-going_out_to_the_streets) | [next >>](3-new_experiences_as_business opportunities.md)
