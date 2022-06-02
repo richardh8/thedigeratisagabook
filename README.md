@@ -133,10 +133,10 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 
 ## <img src="/images/hive_ux.png" width="50"> Chapter 5 - Ultimate User Experience (User Experience Domain)
 - Going out to the streets
-- Addiction to customer problems
+- Addiction to problems
 - New experiences as business opportunities
 - Tasting your own cupcake
-- This is for tomorrow, ok?
+- This is for yesterday, ok?
 - Designing conversations as user experiences
 - Sense of belonging
 - White is the new basic
