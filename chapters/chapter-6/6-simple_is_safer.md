@@ -1,8 +1,8 @@
-# TBD
+# Simple is safer
 
 >""
 
-| Movie |
+| Snowden |
 | :---: |
 |![](../../images/simple_is_safer.png)|
 |Embracing simplicity with simple solutions, not simpletons|
