@@ -1,14 +1,18 @@
-# TBD
+# Designing conversations as user experiences
 
 >""
 
-| Movie |
+| Man of Steel |
 | :---: |
-|![](../../images/tbd.png)|
-|Description|
+|![](../../images/designing_conversations_as_user_experiences.png)|
+|Delivering Powers and Achievements Naturally|
 
->TBD
+>In the movie "Man of Steel", Clark Kent has his super-augmented reality on planet Earth, even allowing him to defy gravity and have powerful forces.
 
-Tbd
+A customer and employee-centric organization uses design combined with user experience to guide and guide all decisions about the processes that shape the interactions of its customers and employees with different systems and processes. And for that, it is necessary to understand what is in fact fundamental and essential in these interactions, between people and with service interfaces, as well as systems interfaces with other systems, your B2B (Business to Business) or your A2A (Application to Application). One of the most important elements is how to bring an experience that generates positive and highly productive feelings, that is, how the design of interface solutions promotes an increase in reality for its user in a human way, while generating incredible products and results, that is, how to make him a super hero, and no longer an expert in the use of such a tool and process. It is no wonder that digital transformation imposes so many challenges in the paradigms of designing interface solutions such as Web-browser, Mobile App, APIs, etc. After all, you might think, just digitize processes, papers and signatures, and we will have a complete digital transformation. No, that is not the purpose of digital transformation, these actions refer to digitization and not digital transformation. A premise of digital transformation is to empower human capital to its maximum productive capacity, which is a relative and temporary capacity, since the user will always demand more advances, so this capacity will continuously increase efficiency in order to eliminate as much as possible. of processes to make more time and energy available to users in the face of the changes and challenges that will come on a day-to-day basis. Real digital companies are the ones that most produce and deliver results versus the number of people applied to the processes that deliver this result. Where the maximization of results is sought to the detriment of the minimization of resources. And this needs to be applied in all spheres that touch the organization as well as within it, that is, it is not only in the action of communication, dissemination, marketing and sales, it is in the consumption of goods and services, as well as their renewal of use. service. Customers are increasingly aware and less tolerant of faults, an error in use or after-sales renewal will cost a lot.
 
-[<< previous](tbd) | [next >>](tbd)
+Consumers are already on top of expectations, fueled in part by their digital lives of constant service updates and seamless personalization. They expected from all the types of products and services they chose, the size they chose, the service they wanted, that match the future ahead of them, and that these worlds are dynamic, so we have to magically get closer to their needs, desires. and whims, and the events of their lives.
+
+Remember, consumers don't need to experiment with the most innovative forms of digital adaptation to reconfigure their expectations. They just need to know about them. They expect an automatic reconfiguration of services depending on where it is, how it interacts with the product and service, its consumption including its pricing. The expectation from now on is that the services adapt to the context given by the customer through their interactions and generated data, a demand for the use of intelligence and automation on a large scale but personalized for each one. A design that aligns user experiences with business, design for indulgent offers that adapt to changing needs before your customer switches to a competitor. We can see this trend already happening, where smart brands will do just that. Even if it means creating products and services that seem to defy the laws of space and time. Ready, adjust, adapt!
+
+[<< previous](5-this_is_for_yesterday_ok.md) | [next >>](7-sense_of_belonging.md)
