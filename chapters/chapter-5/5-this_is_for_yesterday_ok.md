@@ -2,7 +2,7 @@
 
 >""
 
-| Movie |
+| Click |
 | :---: |
 |![](../../images/this_is_for_yesterday_ok.png)|
 |Eliminate activities that take you away from your goal|
