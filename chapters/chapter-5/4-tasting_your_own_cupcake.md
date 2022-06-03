@@ -1,14 +1,20 @@
-# TBD
+# Tasting your own cupcake
 
 >""
 
-| Movie |
+| The Interview |
 | :---: |
-|![](../../images/tbd.png)|
-|Description|
+|![](../../images/tasting_your_own_cupcake.png)|
+|Always try before serving|
 
->TBD
+>In the movie “The Interview”, Dave Skylark arrives in North Korea and is surprised by the whole organization, stores with products, everything in good condition, even happy children. However, when he escapes the control route of the Korean officers, he discovers that everything was nothing more than sets and actors.
 
-Tbd
+An analogy to this question is the engagement cake, and companies tend to think of their projects, digital transformation actions, as if they were going to deliver an engagement cake, it has to be big, have a great visual impact (marketing), serve a lot of people, and of course, it has to taste good. The problem is, this cake is expensive, and people prefer flavor over impact.
 
-[<< previous](tbd) | [next >>](tbd)
+You invest a lot and maybe you don't have the expected success, because the risks are many and any problem with this huge cake, will have repercussions on many people, your customers, your image, and your money, ruin the wedding, right? The concept of Cupcake here is that if we have the new experience that we want to develop, making a Cupcake to validate that the ingredients, the recipe, the preparation and the cooking are good is fundamental, it is an approach where customers can taste at a price very low, and of low impact for your reputation, not to mention that at the time of tasting, the customer will demonstrate their satisfaction and even be able to give tips and comments about the tasting, and you can quickly adapt and re-test the Cupcake, and From there on, yes, decide to invest more in this recipe to build a bigger cake.
+
+Many companies idealize their new business projects in the digital world with extensive scopes and requirements covering a range of functionality and services only to realize after a lot of time, effort and money that the product or service is not as good as they thought, and that sales are not going to be what they projected, and a list of problems needs to be addressed, and that certain functionality is worthless. This concept comes from a mindset where companies create their products without understanding the dimensions of market demands, without customer involvement, known as the inside-out model. As interesting as your opinions are, they are irrelevant to the facts. Another mentality allied to this situation is perfectionism and preciosity regarding the scope of the product and service, defining a large volume of requirements, rules, characteristics, functions and quality which increase project costs, without a consistent validation with the customer or market, tending to value the peripheral functions of the value proposition, instead of focusing on the minimum set of functionalities that could actually validate the value proposition. There is also an entropy naturally developed by the culture of the traditional organization fragmented into areas, where several departments do not clearly see the value proposition of the solutions, and create, criticize and debate requirements that do not present any tangible value to the proposal, but exempt them from risk. , impact, and will take up a lot of your time. Companies have a very high cost in projects with discussions, meetings, briefings, understanding of requirements and approval flows, when this cost should only exist when this new product starts to be industrialized and expanded after validation of its success in the market, and with the proper dimensions.
+
+Ideas about new user experience journeys, value propositions, business models cannot jump to a business venture stage without going through essential stages such as prototyping, validation with a small group of users, constituting an MVP (Minimum Product Viable), to be piloted with a still small group of customers, and even in its 1.0 version, it should guarantee a delightful experience, but only in these essential functions, and not in other functions that could be included in a wish list roadmap of the areas from the company. In addition, all this prioritization needs to be done with the client, which has the highest priority, through a co-creative process, because in his experience, he will indicate how he uses that value proposition in his day-to-day, and what he misses are certain functions so that in his given context, he performs his activities in a highly productive way at the least cost or effort.
+
+[<< previous](3-new_experiences_as_business_opportunities.md) | [next >>](5-this_is_for_yesterday_ok.md)
