@@ -1,10 +1,11 @@
 # Partnership as source of innovation
 
 >""
+
 | Fight Club |
 | :---: |
 |![](../../images/partnership_as_source_of_innovation.png)|
-|Bringing you the best from the outside in|
+|Technology without strategy? Strategy without technology?|
 
 >In the movie "Fight Club", Edward Norton, an employee of an insurance company, meets Tyler Durden, who understands Edward's frustrations and emptiness. Together they create Fight Club, an idea so innovative that it brought together hundreds of men around a single purpose.
 
