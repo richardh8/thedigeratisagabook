@@ -2,7 +2,7 @@
 
 >""
 
-| TBD |
+| Lucy |
 | :---: |
 |![](../../images/velocity_and_learning.png)|
 |Experimenting, failing fast, learning Fast|
