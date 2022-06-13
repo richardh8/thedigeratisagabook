@@ -1,1 +1,23 @@
+# Hacking your business
+
+>""
+
+| Mr. Robot |
+| :---: |
+|![](../../images/hacking_your_business.png)|
+|Looking for vulnerabilities to build a relevant digital business|
+
+In the series “Mr. Robot”, Elliot is a security engineering genius by day and a hacker by night. Only with the use of his brilliant mind and technology he helps his friends, attacks a large organization, E-Corp (Evil Corp), destroying all the debt records of its consumers, to produce the biggest financial crisis in the world. story.
+
+Today's technology and science are developing at a faster rate than can be applied in our world. If we evaluate it logically, the human ability to create new technologies for solving problems is greater than the ability to use such technologies. And if we think about business, how many problem-solving opportunities and new business models could be more easily implemented if we had knowledge of all available technologies? Today, those who make the effort to learn about these new technologies and trends are advancing their businesses far beyond their wildest dreams. Is not for nothing. In this era of digital disruption, technologies act as the driving force in reinventing business models.
+
+Understanding technology makes it possible to design new experiences, allowing us to trample traditional leading companies in their segments. With the domain of the digital world, we can create ruptures that go beyond business models, reaching governance models, processes, concepts, beliefs and even behaviors.
+
+In general, we see the term hacker being used to define a person capable of invading systems and computers and causing damage. However, we can apply this word in a more general sense. The hacker is a revolutionary who has a behavior of constantly questioning the status quo and creating solutions that often go beyond the normal limits established, generating extraordinary results. Using this more general definition, we can say that it is important for organizations to identify their internal hackers. People who have a restless, questioning behavior, able to identify problems more easily and creatively find solutions to them. Organizations should explore their ideas, learn from them about new competencies and capabilities, hear from them how they see the organization and give them opportunities to lead on work fronts in which they have mastery and understanding. We know that any organization has its internal challenges, whether they are outdated practices, or unhealthy cultures for the business or blocked business models. We must empower the inside hackers to guide people out of their comfort zone. The suggestion is to hack your organization for your own benefit, going against the grain to create the necessary transformations. And this must be done before the organization is hacked by others through a disruption. Your market share can be massively disrupted by competitors you didn't even know existed.
+
+In addition to accepting and recognizing hackers within your organization, you need to support them properly. Yes, give them the digital solutions, and yes, the ones they choose. Digital solutions bring a new parameter to be evaluated by the organization. You have to think outside the box, on how to redefine organizational structures and allow your hackers to act as freely as possible so that they can expand their creative and questioning thinking. The organization's problems and challenges must be known and identifying creative minds to address them is important. Also giving them the space to work and collaborate with others outside the organization will allow them to create partnerships and participate in ecosystems that would never have been mapped.
+
+Allowing the organization to be hacked for good and with the right purposes can bring new ideas, new ways of seeing the market and its ecosystems and can become a great differentiator during a digital transformation journey.
+
+[<< previous](0-business_driven_technology.md) | [next >>](2-pl_is_result_of_a_valued_ecosystem.md)
 
