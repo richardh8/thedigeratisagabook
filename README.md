@@ -151,25 +151,25 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [There is an app for that](chapters/chapter-6/7-there_is_an_app_for_that.md)
 - [The blockchain fungibility](chapters/chapter-6/8-the_blockchain_fungibility.md)
 
-## <img src="/images/hive_partners.png" width="50"> Chapter 7 - Partnerships to augment powers (Partners Domain)
-- Partnership as source of innovation
-- Assembling your value chain
-- Dialoging your relationships
-- Curating the ecosystem
-- Size doesn't matter
-- Watch out for the sharks
-- Startup as SaaS
-- Capital Ventures
+## <img src="/images/hive_partners.png" width="50"> [Chapter 7 - Partnerships to augment powers (Partners Domain)](chapters/chapter-7/0-partnerships_to_augment_powers.md)
+- [Partnership as source of innovation](chapters/chapter-7/1-partnership_as_source_of_innovation.md)
+- [Assembling your value chain](chapters/chapter-7/2-assembling_your_value_chain.md)
+- [Dialoging your relationships](chapters/chapter-7/3-dialoging_your_relationships.md)
+- [Curating the ecosystem](chapters/chapter-7/4-curating_the_ecosystem.md)
+- [Size doesn't matter](chapters/chapter-7/5-size_doesnt_matter.md)
+- [Watch out for the sharks](chapters/chapter-7/6-watch_out_for_the_sharks.md)
+- [Startup as SaaS](chapters/chapter-7/7-startup_as_saas.md)
+- [Capital Ventures](chapters/chapter-7/8-capital_ventures.md)
 
-## <img src="/images/hive_business.png" width="50"> Chapter 8 - Business Driven Technology (Business Domain)
-- Hacking your business
-- P&L is result of a valued ecosystem
-- Velocity and learning
-- Making possible the impossible
-- Landing without visibility and instruments
-- Ghost and witch hunting
-- Storytelling, not specifications
-- Making everything versus connecting everything
+## <img src="/images/hive_business.png" width="50"> [Chapter 8 - Business Driven Technology (Business Domain)](chapters/chapter-7/0-business_driven_technology.md)
+- [Hacking your business](chapters/chapter-7/1-hacking_your_business.md)
+- [P&L is result of a valued ecosystem](chapters/chapter-7/2-pl_is_result_of_a_valued_ecosystem.md)
+- [Velocity and learning](chapters/chapter-7/3-velocity_and_learning.md)
+- [Making possible the impossible](chapters/chapter-7/4-making_possible_the_impossible.md)
+- [Landing without visibility and instruments](5-landing_without_visibility_and_instruments.md)
+- [Ghost and witch hunting](6-ghost_and_witch_hunting.md)
+- [Storytelling, not specifications](7-storytelling_not_specifications.md)
+- [Making everything versus connecting everything](8-making_everything_versus_connecting_everything.md)
 
 ## Digital Badges (Roles In Digital Culture)
 
