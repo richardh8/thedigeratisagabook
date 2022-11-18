@@ -46,36 +46,9 @@ I have blissfully and luckily been involved with digital technology projects sin
 
 Also, I'm very thankful for having met distinguished and distinct people that shared with me the passion, the incessant fight against status quo and mediocracy. The warm and profound discussions that connected us even more, which allowed me to learn and put in practice through experiments, projects, programs and operations.
 
-The book is structured in chapters, which have a rationale for it, within it, we have the episodes classified by each domain. Episodes are made of its "branded theme", short inspirational and contextualizable quote, an image from a movie, a caption of that movie, rationale and linkage of of the movie with the theme, describing the problems involved with the theme, a narrative of the theme, and finally, examples of the situation described by the theme.
-
-In a data structure, you could simply see it as:
-```
-var book = [
- title,
- subtitle,
- chapter:  {
-  title,
-  domain,
-  rationale,
-  episodes : [
-   {
-    theme,
-    quote,
-    image,
-    caption,
-    rationale,
-    abstract,
-    narrative,
-    examples
-   }
-  ]
- } 
-]
-```
+The book is structured in chapters, which have a rationale for it, within it, we have the episodes classified by each domain. Episodes are made of its "branded theme", short inspirational and contextualizable quote, an image from a movie, a caption of that movie, rationale and linkage of of the movie with the theme, describing the problems involved with the theme, and finaly a narrative of the theme
 
 To close this prologue, I wanted to thank you for reading up to here, and I'm very looking forward to knowing you are reading it all, and please, engage me in any ways you want, to discuss it, change it, or just simply, exchange experiences without any commitments or strings attached. Worthwhile conversation points will be appended to the end of this book, let's see what we can make of it, up to you and me.
-
-
 
 ## [Chapter 0 - Tipping Point of Crisis (Staging)](chapters/chapter-0/0-tipping_point_of_crisis.md)
 - [Postponing, getting deeper into the crisis](chapters/chapter-0/1-postponing_getting_deeper_into_the_crisis.md)
@@ -171,14 +144,14 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [Storytelling, not specifications](7-storytelling_not_specifications.md)
 - [Making everything versus connecting everything](8-making_everything_versus_connecting_everything.md)
 
-## Digital Badges (Roles In Digital Culture)
-
-## Epilogue	
+## Digital Badges (Roles In Digital Culture) [Chapter 9 - The roles of Digital Transformation (Employee Domain)](chapters/chapter-8/0-digital_badges.md)
 
 ## The Digital Transformation Canvas
 
 ## The Digital Transformation Roadmap
 
 ## The Digerati Journey Workshop
+
+## Epilogue	
 
 ## Further Resources
