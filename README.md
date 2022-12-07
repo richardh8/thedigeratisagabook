@@ -68,7 +68,9 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [Focusing on new experiences](chapters/chapter-1/2-focusing_on_new_experiences.md)
   - >"If there is a final and lasting byproduct of any human being experience, is consciouness, a container of experiences lived throughout time. The search for real problems through empathy, are the supporting components and drivers of digital innovation.
 - [Connecting to the exponential and infinity](chapters/chapter-1/3-connecting_to_the_exponential_and_infinity.md)
+ ->"The world nowadays provides us all with so many bodies of knowledge, technologies, products and services, nearing an infinite set of concatenations and combinations possible. You must remove your bias and consider the possibilities of tapping your digital transformation journey to grow your business at exponential scales."
 - [Fusing business and technology](chapters/chapter-1/4-fusing_business_and_technology.md)
+ ->"Dive deep into thinking about your business, now think how you could code it, program it, or be open to new business opportunities that are digital native, promoting the disruption of status-quo processes and business models."
 - [Architecting for continual change](chapters/chapter-1/5-architecting_for_continual_change.md)
 - [Collaborating in the ecosystem](chapters/chapter-1/6-collaborating_in_the_ecosystem.md)
 - [Creating historical journeys](chapters/chapter-1/7-creating_historical_journeys.md)
