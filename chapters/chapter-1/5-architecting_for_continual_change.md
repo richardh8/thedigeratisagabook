@@ -1,6 +1,6 @@
 # Architecting for Continual Change
 
->""
+>"Design, socialize, deploy, do all over again, establishing architecture across the organization, software development, deployment is an ongoing aspiration on how to make changes easier, with a short-span of time. Architecture Is more about your organizational productivity, with embedded quality, security, performance, resilience and scalability."
 
 | X-Mem: The Movie |
 | :---: |
