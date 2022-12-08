@@ -72,9 +72,13 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [Fusing business and technology](chapters/chapter-1/4-fusing_business_and_technology.md)
 >"Dive deep into thinking about your business, now think how you could code it, program it, or be open to new business opportunities that are digital native, promoting the disruption of status-quo processes and business models."
 - [Architecting for continual change](chapters/chapter-1/5-architecting_for_continual_change.md)
+>"Design, socialize, deploy, do all over again, establishing architecture across the organization, software development, deployment is an ongoing aspiration on how to make changes easier, with a short-span of time. Architecture Is more about your organizational productivity, with embedded quality, security, performance, resilience and scalability."
 - [Collaborating in the ecosystem](chapters/chapter-1/6-collaborating_in_the_ecosystem.md)
+> "Focusing on your core value streams is key to not get your organization overwhelmed and spending money and time on supporting functions. Therefore, connecting core value streams in the ecosystem to remove your customer frictions and hassle, letting the concatenation and symbiosis of supporting functions to partners, while contributing back to the ecosystem with your core value, promotes a win-win scenario with many up sides."
 - [Creating historical journeys](chapters/chapter-1/7-creating_historical_journeys.md)
+>"Bringing a compeling and purposeful story telling is the starting point to drive change and get people aligned to a vision, facilitating the delegation and decision making of teams towards milestones that are understandable by the organization in all levels."
 - [Flowing in time and rhythm](chapters/chapter-1/8-flowing_in_time_and_rhythm.md)
+>"Grasp space and time of your organization, space as the physical and structural organizational and processual mechanisms, time as the cycle time and execution velocity, understanding the organizational map, is where you can find hacks, remove hops, and remove blockers for your organization."
 
 ## <img src="/images/hive_customer-employee.png" width="50"> [Chapter 2 - Glassbox Organizations (Customer & Employee Domain)](chapters/chapter-2/0-glassbox_organizations.md)
 - [Trust as a starting point](chapters/chapter-2/1-trust_as_a_starting_point.md)
