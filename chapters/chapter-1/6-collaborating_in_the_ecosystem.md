@@ -1,6 +1,6 @@
 # Collaborating in the Ecosystem
 
->""
+>"Focusing on your core value streams is key to not get your organization overwhelmed and spending money and time on supporting functions. Therefore, connecting core value streams in the ecosystem to remove your customer frictions and hassle, letting the concatenation and symbiosis of supporting functions to partners, while contributing back to the ecosystem with your core value, promotes a win-win scenario with many up sides."
 
 | Movie |
 | :---: |
