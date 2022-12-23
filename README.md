@@ -82,6 +82,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 
 ## <img src="/images/hive_customer-employee.png" width="50"> [Chapter 2 - Glassbox Organizations (Customer & Employee Domain)](chapters/chapter-2/0-glassbox_organizations.md)
 - [Trust as a starting point](chapters/chapter-2/1-trust_as_a_starting_point.md)
+> "Never before has the need for trust been so great in order to build culture and organizations that are effectively productive, and set in a position for disruptive innovation in many areas and services they build. And maybe, trust is the true value at the bottom of all for an organization, even more today to take a journey towards digital transformation, which demands transformation of you."
 - [Culture eating strategy](chapters/chapter-2/2-culture_eating_strategy.md)
 - [What's in for me?](chapters/chapter-2/3-whats_in_for_me.md)
 - [As within as without](chapters/chapter-2/4-as_within_as_without.md)
