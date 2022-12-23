@@ -1,13 +1,13 @@
 # Trust as a starting point
 
->""
+>"Never before has the need for trust been so great in order to build culture and organizations that are effectively productive, and set in a position for disruptive innovation in many areas and services they build. And maybe, trust is the true value at the bottom of all for an organization, even more today to take a journey towards digital transformation, which demands transformation of you."
 
 | Movie |
 | :---: |
 |![](../../images/trust_as_a_starting_point.png)|
 |Trust eliminates processes and controls at once|
 
->In the sitcom “Stranger Things”, three friends, the family of the missing Will Byers and the town sheriff, work together in the search for Will in the upside-down land, where they find the “Eleven”, and together forge a closer relationship. intense and confidence in carrying out missions to rescue Will.
+>In the sitcom “Stranger Things”, three friends, the family, and the town sheriff of the missing Will Byers, work together in the search for Will in the upside-down land, where they find “Eleven”, and together forge a closer relationship, with intensity and confidence in carrying out missions to rescue Will.
 
 There is something common among individuals, relationships, families, nations, economies, and even civilizations, and that is trust. Something that if removed, destroys the most powerful government, the most successful business, the most vibrant economy, the most influential leader, the greatest friendship, and also the deepest passion. But if developed and maintained, it has the potential to create unparalleled success and prosperity in every dimension.
 
