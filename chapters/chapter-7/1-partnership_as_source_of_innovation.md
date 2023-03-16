@@ -1,6 +1,6 @@
 # Partnership as source of innovation
 
->""
+>"Organizations must keep up with the exponential growth of technological innovations in order to remain relevant in the market. This can be achieved by combining existing technologies to create recombinant innovations. A digital transformation journey is the time to identify specialized partnerships and trends in the market to assist in the combination of technologies for innovation. "
 
 | Fight Club |
 | :---: |
