@@ -1,6 +1,6 @@
 # What's in for me?
 
->""
+>"Dive into the thrilling world of employee engagement! Like a Kingsman secret agent, unleash the power of high-performance teams with meaning, purpose, and rewards. Enjoy career growth, autonomy, and good management, achieving fantastic results and skyrocketing success!"
 
 |Kingsman: The Secret Service|
 |:---:|
