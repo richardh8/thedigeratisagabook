@@ -84,6 +84,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [Trust as a starting point](chapters/chapter-2/1-trust_as_a_starting_point.md)
 > "Never before has the need for trust been so great in order to build culture and organizations that are effectively productive, and set in a position for disruptive innovation in many areas and services they build. And maybe, trust is the true value at the bottom of all for an organization, even more today to take a journey towards digital transformation, which demands transformation of you."
 - [Culture eating strategy](chapters/chapter-2/2-culture_eating_strategy.md)
+> "Understanding and aligning organizational culture with digital transformation strategy is critical for success, fostering employee and customer acceptance, loyalty, and resilience during challenging times.
 - [What's in for me?](chapters/chapter-2/3-whats_in_for_me.md)
 - [As within as without](chapters/chapter-2/4-as_within_as_without.md)
 - [Enabling collaboration](chapters/chapter-2/5-enabling_collaboration.md)
