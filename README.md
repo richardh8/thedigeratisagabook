@@ -100,10 +100,15 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 
 ##  <img src="/images/hive_people.png" width="50"> [Chapter 3 - Culture of Empowerment (People Domain)](chapters/chapter-3/0-culture_of_empowerment.md)
 - [History of heroes](chapters/chapter-3/1-history_of_heroes.md)
+> "Forrest Gump's life, filled with incredible stories, inspires organizations to embrace storytelling, fostering engagement, learning, and connection. By creating captivating narratives, employees embark on their own exciting journeys, overcoming obstacles and achieving personal growth."
 - [The power of the crowds](chapters/chapter-3/2-the_power_of_the_crowds.md)
+> "Inspired by "Charlie and the Chocolate Factory," effective ergonomics boosts well-being, creativity, and productivity. By providing diverse workspaces, modern furniture, and collaborative settings, companies foster employee engagement, satisfaction, and a dynamic organizational culture."
 - [Managing for results](chapters/chapter-3/3-managing_for_results.md)
+> "The power of crowds is a valuable asset that is often overlooked in organizations. Collective intelligence emerges from altruistic collaboration and contributes to generating new possibilities for teamwork, innovation, and success. Examples of this include free software communities, crowdsourcing and crowdfunding movements, and hackathons. Successful companies such as Google, AirBnB, and Spotify have utilized the power of crowds, demonstrating its effectiveness in digital transformation journeys."
 - [Learning all the time](chapters/chapter-3/4-learning_all_the_time.md)
+> "Managing for results in a constantly evolving market requires a cultural shift towards a focus on achieving clear deliverables aligned with organizational strategies. A new management paradigm based on agility, freedom, recognition, and meritocracy, such as OKRs, can encourage employee engagement, personal growth, and innovation. Successful implementation depends on leadership support, clear purposes, and a recognition model linked to the magnitude of the result sought. The idea is not just to achieve results but to learn and bring value to the organization with each cycle."
 - [Things, own or use them?](chapters/chapter-3/5-things_own_or_use_them.md)
+> ""
 - [What's up to you?](chapters/chapter-3/6-whats_up_to_you.md)
 - [Leading from the bottom up](chapters/chapter-3/7-leading_from_the_bottom_up.md)
 - [Your worst enemy, you](chapters/chapter-3/8-your_worst_enemy_you.md)
