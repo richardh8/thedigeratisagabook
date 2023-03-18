@@ -86,6 +86,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [Culture eating strategy](chapters/chapter-2/2-culture_eating_strategy.md)
 > "Understanding and aligning organizational culture with digital transformation strategy is critical for success, fostering employee and customer acceptance, loyalty, and resilience during challenging times.
 - [What's in for me?](chapters/chapter-2/3-whats_in_for_me.md)
+> "Dive into the thrilling world of employee engagement! Like a Kingsman secret agent, unleash the power of high-performance teams with meaning, purpose, and rewards. Enjoy career growth, autonomy, and good management, achieving fantastic results and skyrocketing success!
 - [As within as without](chapters/chapter-2/4-as_within_as_without.md)
 - [Enabling collaboration](chapters/chapter-2/5-enabling_collaboration.md)
 - [Breaking productivity paradigms](chapters/chapter-2/6-breaking_productivity_paradigms.md)
