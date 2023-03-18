@@ -19,12 +19,15 @@ The greater the trust between people, the less the need for processes and contro
 trust is
 
 >Being able to express yourself without worrying about prejudices or pre-judgments
+
 >Constantly developed through frequent contacts. It's an exchange
->    Formed by rational direct experiences and emotional dedication
-    A two-way street, mistakes and failures happen, but not premeditatedly
-    There is always a risk involved and there is always the possibility of being violated.
-    Guys. Trust in institutions and processes always comes through people
-    Based on character, competence and delivery of results
+
+>Formed by rational direct experiences and emotional dedication
+
+>A two-way street, mistakes and failures happen, but not premeditatedly
+>There is always a risk involved and there is always the possibility of being violated.
+>Guys. Trust in institutions and processes always comes through people
+>Based on character, competence and delivery of results
 
 the value of trust
 
