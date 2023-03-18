@@ -88,10 +88,15 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [What's in for me?](chapters/chapter-2/3-whats_in_for_me.md)
 > "Dive into the thrilling world of employee engagement! Like a Kingsman secret agent, unleash the power of high-performance teams with meaning, purpose, and rewards. Enjoy career growth, autonomy, and good management, achieving fantastic results and skyrocketing success!"
 - [As within as without](chapters/chapter-2/4-as_within_as_without.md)
+> "Jump into the exciting digital age with a modern work environment! Learn from "The Social Network" and blend cutting-edge technology, flexible hours, and creative spaces to engage employees. Explore new evaluation methods, structures, and leadership styles for ultimate productivity and satisfaction."
 - [Enabling collaboration](chapters/chapter-2/5-enabling_collaboration.md)
+> "Get ready for an interstellar collaboration adventure inspired by "Star Trek Beyond"! Empower your team by aligning goals, fostering a balanced compensation plan, and utilizing collaboration technologies. Boost productivity and satisfaction with a mix of immediate and long-term rewards. Engage, explore, and boldly go!"
 - [Breaking productivity paradigms](chapters/chapter-2/6-breaking_productivity_paradigms.md)
+> "Dive into a productivity revolution inspired by "The Office"! Break free from old paradigms and shift towards mental energy-driven productivity. Foster innovation, redefine roles, and track progress with key performance indicators. Embrace the digital transformation and unleash your organization's full potential!"
 - [The Land where customer is king](chapters/chapter-2/7-the_land_where_customer_is_king.md)
+> "Discover the land where the customer is king and let it guide your company to new heights! Embrace the importance of understanding your customers and their perceptions, as it is their reality that shapes your success. Invest in retaining existing customers and providing exceptional experiences that they will share with others. Remember, without customers, there is no business. Adapt your approach to different customer segments and always put their needs and desires first. By making the customer the center of your universe, your brand will ultimately triumph."
 - [Collaborative and productive ergonomics](chapters/chapter-2/8-collaborative_and_productive_ergonomics.md)
+> "Collaborative and productive ergonomics play a vital role in the success of a digital transformation journey. By focusing on the well-being of employees, companies can create a productive, happy, and creative workforce. Ergonomics goes beyond just office chairs and tables; it encompasses the entire work environment, including spaces, furniture, utensils, and technology."
 
 ##  <img src="/images/hive_people.png" width="50"> [Chapter 3 - Culture of Empowerment (People Domain)](chapters/chapter-3/0-culture_of_empowerment.md)
 - [History of heroes](chapters/chapter-3/1-history_of_heroes.md)
