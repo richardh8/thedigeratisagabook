@@ -25,15 +25,21 @@ trust is
 >Formed by rational direct experiences and emotional dedication
 
 >A two-way street, mistakes and failures happen, but not premeditatedly
+
 >There is always a risk involved and there is always the possibility of being violated.
+
 >Guys. Trust in institutions and processes always comes through people
+
 >Based on character, competence and delivery of results
 
 the value of trust
 
-    In a trusting relationship, even if you do something wrong, the other side will still understand.
-    In a relationship without trust, even when being careful and precise, people feel lonely and insecure, taking their energy and deteriorating their inner strength.
-    Trust-based environments tend to have higher productivity, performance, and lower cost.
-    Trust empowers and gives greater opportunities to create solutions, allowing innovation and personal motivation.
+>In a trusting relationship, even if you do something wrong, the other side will still understand.
+
+>In a relationship without trust, even when being careful and precise, people feel lonely and insecure, taking their energy and deteriorating their inner strength.
+
+>Trust-based environments tend to have higher productivity, performance, and lower cost.
+
+>Trust empowers and gives greater opportunities to create solutions, allowing innovation and personal motivation.
 
 [<< previous](0-glassbox_organizations.md) | [next >>](2-culture_eating_strategy.md)
