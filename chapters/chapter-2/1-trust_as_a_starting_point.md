@@ -18,9 +18,9 @@ Always, the first gesture is to give the vote of confidence. And evolve the degr
 The greater the trust between people, the less the need for processes and controls. High-trust environments value consensus, cooperation, and collaboration. And they require fewer rules, norms and conventions. And it is important to highlight that institutions, brands and services are not trusted, but people. Trust is an innate human emotional factor and, once shaken, can give rise to major problems in performance, engagement, efficiency and effectiveness.
 trust is
 
-    Being able to express yourself without worrying about prejudices or pre-judgments
-    Constantly developed through frequent contacts. It's an exchange
-    Formed by rational direct experiences and emotional dedication
+>Being able to express yourself without worrying about prejudices or pre-judgments
+>Constantly developed through frequent contacts. It's an exchange
+>    Formed by rational direct experiences and emotional dedication
     A two-way street, mistakes and failures happen, but not premeditatedly
     There is always a risk involved and there is always the possibility of being violated.
     Guys. Trust in institutions and processes always comes through people
