@@ -1,6 +1,6 @@
 # History of heroes
 
->""
+>"Forrest Gump's life, filled with incredible stories, inspires organizations to embrace storytelling, fostering engagement, learning, and connection. By creating captivating narratives, employees embark on their own exciting journeys, overcoming obstacles and achieving personal growth."
 
 | Forrest Gump |
 | :---: |
