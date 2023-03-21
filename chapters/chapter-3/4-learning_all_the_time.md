@@ -1,6 +1,6 @@
 # Learning all the time
 
->""
+>"In a rapidly changing job market, traditional education models are not meeting the urgent need for professionals with new and diverse skill sets. Nanodegree diplomas offer short-term, low-cost, and self-directed learning opportunities for professionals to quickly adapt to market demands. Innovative organizations are turning to continuous learning to develop critical and relevant human capital, and organizations that promote and value continuous learning can gain a competitive advantage."
 
 | Edge of Tomorrow |
 | :---: |
