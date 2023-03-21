@@ -1,6 +1,6 @@
 # The power of the crowds
 
->""
+>"The power of crowds is a valuable asset that is often overlooked in organizations. Collective intelligence emerges from altruistic collaboration and contributes to generating new possibilities for teamwork, innovation, and success. Examples of this include free software communities, crowdsourcing and crowdfunding movements, and hackathons. Successful companies such as Google, AirBnB, and Spotify have utilized the power of crowds, demonstrating its effectiveness in digital transformation journeys."
 
 | Selma |
 | :---: |
