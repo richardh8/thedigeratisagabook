@@ -3,9 +3,9 @@
 
 ![](/images/the_digirati_saga_cover.jpg)
 
-Copyright © Richard Hechenbichler 2022.
+Copyright © Richard Hechenbichler 2023.
 
-To be Published in 2022 by Amazon Publishing.
+To be Published in 2023 by Amazon Publishing.
 
 All rights reserved.
 
