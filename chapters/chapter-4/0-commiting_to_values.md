@@ -1,3 +1,23 @@
 # Commiting to Values
 
+n today's world, the notion of values and rights has become more important than ever before. In the context of organizational culture, it is imperative to have a solid foundation of values and rights in order to build trust, fulfillment, and a healthier work environment. Such an environment leads to more productive employees, challenging the status quo, aiming to overcome challenges, and engaging them with the purpose of the organization. In this article, we will explore the gains of relying on fundamental values and rights and how they can benefit an organization in the long run.
+
+The first fundamental value that needs to be embraced is the acceptance of the duality of the world. In the world of business, this means accepting that there will always be ups and downs, successes and failures, and that change is inevitable. By accepting this duality, organizations can become more agile and responsive to the changing business landscape. Employees can be empowered to adapt to new challenges and opportunities, leading to more innovation and creativity. Organizations that embrace this value can foster a culture of learning and continuous improvement, leading to a more resilient and successful organization.
+
+The second fundamental value is the sense of justice. In an organization, this means treating all employees equally and fairly, regardless of their position or background. This value fosters a culture of respect and trust, leading to increased loyalty and commitment from employees. When employees feel that they are being treated fairly, they are more likely to go above and beyond for the organization, leading to higher productivity and better results.
+
+Transparency is everything when it comes to building trust and engagement within an organization. When employees have a clear understanding of what is expected of them, they can focus on meeting those expectations and delivering results. In addition, transparency promotes open communication and fosters a culture of trust and collaboration. This enables employees to work together more effectively, leading to better outcomes for the organization.
+
+The problem is yours is a fundamental value that encourages employees to take ownership of their work and to find solutions to problems on their own. This value fosters a culture of accountability and responsibility, leading to more proactive and engaged employees. When employees feel that they are trusted to solve problems and make decisions, they are more likely to take initiative and think creatively. This leads to more innovation and better results for the organization.
+
+Designing for significance is a fundamental value that emphasizes the importance of creating meaningful and impactful work. When employees feel that their work is meaningful and contributes to the overall goals of the organization, they are more likely to be engaged and motivated. This value fosters a culture of purpose and meaning, leading to more committed and passionate employees.
+
+Diversity as a platform is a fundamental value that recognizes the importance of diversity in creating a successful organization. By embracing diversity, organizations can tap into a wider range of perspectives and ideas, leading to more innovative solutions and better outcomes. In addition, diversity fosters a culture of inclusivity and respect, leading to more engaged and committed employees.
+
+Zero negative impact, but high positive ones is a fundamental value that emphasizes the importance of sustainability and responsible business practices. By minimizing the negative impact of their operations on the environment and society, organizations can create a more sustainable and ethical business model. This value fosters a culture of responsibility and stewardship, leading to more engaged and committed employees.
+
+Finally, comprehending abundance and scarcity is a fundamental value that recognizes the importance of resource management and planning. By understanding the limitations of resources and the need to manage them effectively, organizations can create a more sustainable and efficient business model. This value fosters a culture of efficiency and innovation, leading to more successful and profitable outcomes for the organization.
+
+In conclusion, relying on solid and fundamental set of values and human rights is essential to building trust, fulfillment, and a healthier organizational culture. These values promote a culture of learning, respect, transparency, accountability, and purpose.
+
 [<< previous](../chapter-3/8-your_worst_enemy_you.md) | [next >>](1-accepting_the_duality_of_the_world.md)
