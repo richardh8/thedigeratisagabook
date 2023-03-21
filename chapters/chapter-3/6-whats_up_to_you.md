@@ -1,6 +1,6 @@
 # What's up to you?
 
->""
+>"The importance of aligning personal and organizational purpose is highlighted in the movie "Braveheart". Passion and purpose fuel successful organizations, with people looking for personal fulfillment and refusing to work for organizations with contrary values. Organizations must rethink their motivational strategies, making their purposes transparent, clear, and authentic to attract and engage the right people. A frank conversation with everyone is crucial when preparing for a digital transformation journey to understand if the chosen path aligns with the employees' and society's values."
 
 | Braveheart |
 | :---: |
