@@ -117,6 +117,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 
 ## <img src="/images/hive_value.png" width="50"> [Chapter 4 - Commiting to values (Values Domain)](chapters/chapter-4/0-commiting_to_values.md)
 - [Accepting the duality of the world](1-accepting_the_duality_of_the_world.md)
+> "The movie "The Matrix" illustrates the duality of the real and digital worlds and how they promote a single experience. Similarly, a company seeking digital transformation must excel in both physical and digital spheres, delivering value to clients and stakeholders regardless of the channel. To provide an integrated and relevant experience, it is necessary to recognize who is performing a certain action and activate their histories, preferences, and other information in real-time. The context of consumer actions and their expectations of agility, transparency, and efficiency created by the digital environment should be extended to service and physical relationships, promoting consistent experiences that align with the brand's purpose and message."
 - [Sense of justice](chapters/chapter-4/2-sense_of_justice.md)
 - [Transparency is everything](chapters/chapter-4/3-transparency_is_everything.md)
 - [The problem is yours](chapters/chapter-4/4-the_problem_is_yours.md)
