@@ -1,6 +1,6 @@
 # Leading from the bottom up
 
->""
+>"New leadership and management practices are redefining organization, ways of work and models in organizations, with an inverted hierarchical pyramid that prioritizes people who produce value. It emphasizes collaboration, coordination, and support for teams to achieve organizational goals while keeping employee satisfaction as a priority. Creating an environment conducive to exposing and solving problems is essential to build a culture of continuous improvement. New leaders are revolutionizing the management paradigm that encourages employee feedback and team collaboration through practical approaches, making it an essential part of a digital transformation journey."
 
 | Gandhi |
 | :---: |
