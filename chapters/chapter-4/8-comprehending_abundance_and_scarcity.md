@@ -1,6 +1,6 @@
 # Comprehending abundance and scarcity
 
->""
+>"In the movie "Men in Black 3," extraterrestrial agents maintain law and order on Earth, and just like them, companies need to develop the ability to see opportunities in abundance and scarcity. Science and technology have allowed the emergence of companies capable of reaching global customers in a few years, generating value and solving problems. Digital transformation offers companies the possibility of quickly adapting to constant change, connecting abundance to scarcity, and becoming exponential organizations with growth rates above their competitors."
 
 | Men in Black 3 |
 | :---: |
