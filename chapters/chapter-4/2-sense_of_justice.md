@@ -1,6 +1,6 @@
 # Sense of Justice
 
->""
+>"The movie John Wick shows the importance of justice for customers, who desire fair answers to their problems. Companies can no longer exist without a focus on customer service, as competition, technology, and social networks increase transparency in consumer relations. Companies seeking digital transformation must monitor their deliveries, anticipate possible nonconformities, and react quickly and seriously to any failures. The sense of justice brings simplicity, and customers expect a personalized approach with recognition of their profile. Transparency, candor, and remedying any errors are essential in treating customers fairly."
 
 | John Wick |
 | :---: |
