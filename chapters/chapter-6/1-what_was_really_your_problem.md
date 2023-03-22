@@ -1,6 +1,6 @@
 # What was really your problem?
 
->""
+>"The use of technologies and business strategies are so closely fused that it is important to discuss them together. Technologies should be part of the problem-solving process and business improvement, and not treated as something separate from the organization. Practices to avoid include treating other functions as customers, assuming professionals from other areas are not familiar with technology, and treating professionals as multitaskers. Instead, technology-related functions should collaborate with the business to find solutions and work together to achieve goals."
 
 | Lost |
 | :---: |
