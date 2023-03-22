@@ -1,6 +1,6 @@
 # New experiences as business opportunities
 
->""
+>"The success of innovative companies is not due solely to technology, good management or business models, but rather to the creation of new experiences that were not previously thought possible. Companies that invest in new user experiences are more attractive to investors, consumers and talent, and have a greater chance of surviving in a competitive market. Therefore, organizations should focus on developing new experiences for their customers, as this is the real competitive advantage that will bring long-term success. Redesigning the organization's thinking model towards UX with full force will bring innovation and attract necessary investments for digital transformation."
 
 | Mr Selfridge |
 | :---: |
