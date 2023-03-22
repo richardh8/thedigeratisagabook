@@ -15,20 +15,13 @@ Building and maintaining healthy partnerships is a major challenge for companies
 It is also important for the company to always be able to see the value of the partner considering its role in the ecosystem, keeping the deliveries between the parties clear and fluid. With this, the partner can also think about the ecosystem from its point of view, always bringing new gains. Another way to improve the relationship in the partnership ecosystem is to establish clear and open methods and processes, in the sense of maintaining a channel for exchanging experiences, promoting contacts, meetings and for understanding the products of each participant.
 
 Ideally, partners bring diverse skills and talents to their businesses, providing a sense of wholeness that no partner could have achieved alone. However, the intensity of sharing a professional identity, coupled with the knowledge that your partner is impacting your survival, can bring enormous potential for conflict. In this sense, there are some important precautions to be considered, helping in the assertive choice of partners:
-
-Trust: Establish partnerships that you really like and trust. Confidence can advance in the perspective of a continuum, whereby the growing sense of confidence means that you are on the right path.
-
-Values: Invest in partners who share your values. Successful partners often agree on standards about what is desirable, undesirable, good, and bad.
-
-Complementarity: Find partners who have a complementary set of skills and traits. Successful partners will have different skills and characteristics and this does them well when managed with complicity.
-
-Contributions: In successful partnerships, each partner believes their rewards equal or exceed their contributions. The healthy thing is to maintain that sense of equity
-
-Support: Look for partners who “embrace” change and growth, knowing that this attitude benefits them both individually and as a team, that is, find someone who wants to grow and support your growth.
-
-Resolution: Count on partners capable of using proactive and strategic approaches to conflict management, such as accommodation, compromise and collaboration to resolve your differences.
-
-Vision: Make sure your partners share the same vision. With that, invest in four tasks: create the initial vision, translate that vision into a set of actions, articulate and sell the vision to others, and stay true to the essence of the vision when reality changes plans.
+- Trust: Establish partnerships that you really like and trust. Confidence can advance in the perspective of a continuum, whereby the growing sense of confidence means that you are on the right path.
+- Values: Invest in partners who share your values. Successful partners often agree on standards about what is desirable, undesirable, good, and bad.
+- Complementarity: Find partners who have a complementary set of skills and traits. Successful partners will have different skills and characteristics and this does them well when managed with complicity.
+- Contributions: In successful partnerships, each partner believes their rewards equal or exceed their contributions. The healthy thing is to maintain that sense of equity
+- Support: Look for partners who “embrace” change and growth, knowing that this attitude benefits them both individually and as a team, that is, find someone who wants to grow and support your growth.
+- Resolution: Count on partners capable of using proactive and strategic approaches to conflict management, such as accommodation, compromise and collaboration to resolve your differences.
+- Vision: Make sure your partners share the same vision. With that, invest in four tasks: create the initial vision, translate that vision into a set of actions, articulate and sell the vision to others, and stay true to the essence of the vision when reality changes plans.
 
 In summary, the best way to increase the level of trust in a partnership is to always offer a little more than you promised to deliver. Having the right partners allows you to create results you might not otherwise have. Increase your potential to create true synergies through a partnership greater than the sum of its parts and be ready to reap the rewards!
 
