@@ -1,6 +1,6 @@
 # The blockchain fungibility
 
->""
+>"Blockchain technology, which supports cryptocurrencies, can revolutionize the world economy with its ability to facilitate collaboration and track any type of transaction or interaction. Blockchain can also provide privacy protection and transparency. As a distributed database, everyone has a record of everything that happens, which introduces inviolable transparency. The financial market can be implemented in a decentralized way using blockchain. Blockchain can also transform markets such as the music industry, ensuring that value for the work performed is distributed to authors and musicians, without intermediaries. Digital transformation journeys should include knowledge of blockchain to lead transformations."
 
 | Judge Dredd |
 | :---: |
