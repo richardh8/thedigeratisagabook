@@ -1,6 +1,6 @@
 # White is the new basic
 
->""
+>"Simplicity is key when designing products and services, as it facilitates adoption and use. Good design is transparent, immersing the user's mind in the goal. To achieve simplicity, maintain clarity, use automation, provide fewer options, and get to the point quickly. The trend of clean communication, visual and voice interfaces, and automation are replacing the complexity of the past."
 
 | Jobs |
 | :---: |
