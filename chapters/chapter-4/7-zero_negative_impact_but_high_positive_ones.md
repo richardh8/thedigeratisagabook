@@ -1,6 +1,6 @@
 # Zero negative impact, but high positive ones
 
->""
+>"The exponential growth of companies can be achieved without generating negative impacts on society, economy, and environment. In this era, it's crucial to create solutions with high positive impacts for society while minimizing negative ones. Today, the focus is on reducing the negative impact to the user in their purchase and use of products, including disposal, recycling, and exchange. It is a time to unite the shared economy with the power of crowdfunding and crowdsourcing to create value for customers while caring for the planet."
 
 | Deep Impact |
 | :---: |
