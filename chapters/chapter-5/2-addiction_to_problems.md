@@ -1,6 +1,6 @@
 # Addiction to problems
 
->""
+>"In the movie "Margin Call," an accountant discovers a problem that leads to a global economic crisis. Companies can also create problems by discouraging free thinking and roboticizing processes, which affects customer experiences. Leaders should encourage people to raise problems and promote problem-solving, and have zero tolerance for customer complaints. A problem-oriented organization attacks problems quickly and continuously, and can reshape and reimagine the customer experience to solve problems. By uniting people inside and outside the organization, companies can create an unfair value proposition through innovation in bringing a new experience of using the solution."
 
 | Margin Call |
 | :---: |
