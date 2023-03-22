@@ -1,6 +1,6 @@
 # Diversity as a platform
 
->""
+>"Diversity is not just a social inclusion issue but also an important element for organizations to deliver value in the current period. It fosters innovation and increases engagement, which is beneficial for organizations. Companies need to identify the diverse groups and develop communication, motivation, engagement, and development practices that are consistent with each one of them. By adopting diversity as an element of their culture, organizations can enjoy benefits such as a sense of belonging, image of the organization, innovation-friendly environment, and better coping with difficulties. However, leadership plays a significant role in constantly supporting and encouraging diversity in the organization."
 
 | The Chronicles of Narnia: Prince Caspian |
 | :---: |
