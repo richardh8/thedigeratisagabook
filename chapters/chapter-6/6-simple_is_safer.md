@@ -1,6 +1,6 @@
 # Simple is safer
 
->""
+>"The need for digital transformation has led to the adoption of cloud and IT services, but is the use of digital services over the Internet safe? Snowden highlights the need to ensure security when hosting sensitive data on the Internet. As services become more widely available online, edge protection, simplicity, and easy but secure access should be taken into account to mitigate risks and control points of vulnerability. The use of new approaches like biometrics and social network logins can provide a better experience and increased security."
 
 | Snowden |
 | :---: |
