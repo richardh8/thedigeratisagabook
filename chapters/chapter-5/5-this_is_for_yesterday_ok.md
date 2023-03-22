@@ -1,6 +1,6 @@
 # This is for yesterday, ok?
 
->""
+>"In the movie "Click", Michael Newman is given a remote control that allows him to move backward and forward in time. Designing processes that require learning, many steps, and constant user actions can lead to frustration and users abandoning the product. Automation and artificial intelligence can help minimize processes, freeing up time and energy to focus on the heart of the business and value proposition. Understanding modern consumer trends and anticipating events is key to providing the customer with the desired journey."
 
 | Click |
 | :---: |
