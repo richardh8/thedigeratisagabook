@@ -1,6 +1,6 @@
 # Partnership as source of innovation
 
->"ombining existing technologies to create recombinant innovations is vital for organizations to remain relevant in the market during the exponential growth of technological innovations. The digital transformation journey is an opportunity to identify specialized partnerships to assist in combining technologies for innovation. The exponentiality of innovations is due to recombinant innovations, where new innovations emerge from recombining existing ones, making it vital for organizations to keep up with current technologies and trends to remain relevant."
+>"Combining existing technologies to create recombinant innovations is vital for organizations to remain relevant in the market during the exponential growth of technological innovations. The digital transformation journey is an opportunity to identify specialized partnerships to assist in combining technologies for innovation. The exponentiality of innovations is due to recombinant innovations, where new innovations emerge from recombining existing ones, making it vital for organizations to keep up with current technologies and trends to remain relevant."
 
 | Fight Club |
 | :---: |
