@@ -1,6 +1,6 @@
 # Tasting your own cupcake
 
->""
+>"The movie "The Interview" provides an analogy for the concept of Cupcake, which involves creating a small and low-impact prototype to validate a new experience before investing heavily in a larger product or service. Many companies idealize their new business projects without understanding market demands or involving customers. By prioritizing essential functions and validating with a small group of users through a co-creative process, companies can ensure a delightful experience for their customers and minimize risk and costs associated with extensive requirements and debates."
 
 | The Interview |
 | :---: |
