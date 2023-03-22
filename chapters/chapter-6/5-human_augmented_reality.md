@@ -1,6 +1,6 @@
 # Human augmented reality
 
->""
+>"The concept of augmented reality extends beyond VR devices and can be applied in various ways to help us see, hear, perceive, calculate or feel things that our senses are not capable of alone. Augmented reality technologies can be applied during digital transformation to digitize elements of an organization's dynamics and improve employee and customer experiences. Examples of augmented reality technologies include descriptive, prescriptive, and predictive analytics, machine learning, cognitive artificial intelligence, automation, robotization, the internet of things, and VR and AR devices."
 
 | Moneyball |
 | :---: |
