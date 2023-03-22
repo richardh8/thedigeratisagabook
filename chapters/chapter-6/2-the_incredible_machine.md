@@ -18,13 +18,12 @@ The use of APIs (Application Programming Interfaces) to exchange processes and d
 If we look at the recent past, we notice that companies that are successful today have based their technological solutions on creating APIs that allow other solutions to integrate, creating vibrant ecosystems, whereas closed systems are becoming obsolete and myopic.
 
 Here are some concrete examples of integrations:
-
-    Sales Force: APIs so that other solutions can interact with your product easily;
-    eBay: APIs that make your marketplace much more powerful with partner integration;
-    Amazon: Which, through its e-commerce, has become the giant as a provider of technological infrastructure services;
-    Flickr: That with the use of APIs, made possible a simple platform for bloggers to share their content without having to create everything from scratch;
-    Facebook and Tweeter: Its complete set of APIs made it possible to create new businesses in digital marketing;
-    Apple: The creation of the App Store in 2008 was a milestone in the creation of marketplaces, enabling a multitude of new businesses, which caused the globalization of smartphones;
+-Salesforce: APIs so that other solutions can interact with your product easily;
+-eBay: APIs that make your marketplace much more powerful with partner integration;
+-Amazon: Which, through its e-commerce, has become the giant as a provider of technological infrastructure services;
+-Flickr: That with the use of APIs, made possible a simple platform for bloggers to share their content without having to create everything from scratch;
+-Facebook and Tweeter: Its complete set of APIs made it possible to create new businesses in digital marketing;
+-Apple: The creation of the App Store in 2008 was a milestone in the creation of marketplaces, enabling a multitude of new businesses, which caused the globalization of smartphones;
 
 Faced with so much technological diversity, it is important that specialists can provide simple solutions to complex problems, that they can innovate on innovations, innovate within innovations. The IT areas need to be together with the business areas to provide simple solutions to problems, with a mindset and vocabulary focused on business opportunities.
 
