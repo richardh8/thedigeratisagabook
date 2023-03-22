@@ -1,6 +1,6 @@
 # Assembling your value chain
 
->"Organizations must understand the difference between Supply Chain and Value Chain, and design their Integral Value Chain architecture during digital transformation journeys. Identify current goals, trust relationships, and establish clear strategies for partnerships with a focus on simplicity, efficiency, innovation and commitment to the transformative purpose."
+>"During digital transformation, organizations should understand the difference between Supply Chain and Value Chain, identify current goals, and establish clear strategies for partnerships to design an Integral Value Chain architecture with a focus on simplicity, efficiency, innovation, and commitment. The two main models of thinking about the Value Chain are "Integral Value Chain" and "Modular Value Chain", with the former focusing on a win-win relationship of trust and collaboration with partners towards long-term goals, and the latter emphasizing short-term individual gains."
 
 | Star Wars: Return of the Jedi |
 | :---: |
