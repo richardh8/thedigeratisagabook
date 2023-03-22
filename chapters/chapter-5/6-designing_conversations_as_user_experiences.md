@@ -1,6 +1,6 @@
 # Designing conversations as user experiences
 
->""
+>"In the movie "Man of Steel", Clark Kent has superpowers, and a customer and employee-centric organization uses design combined with user experience to guide all decisions. The focus is on delivering positive and highly productive experiences that empower users and maximize efficiency, with real digital companies producing results while minimizing resources. Consumers expect automatic reconfiguration of services that adapt to their context, and smart brands will do just that to keep up with changing needs."
 
 | Man of Steel |
 | :---: |
