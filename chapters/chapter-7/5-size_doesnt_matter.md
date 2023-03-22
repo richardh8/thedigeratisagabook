@@ -1,6 +1,6 @@
 # Size doesn't matter
 
->""
+>"Innovation requires more than just thinking heads; it needs resources, knowledge, a laboratory, and an integrated environment. In the past, only large organizations could innovate, but today, the internet has made resources available to anyone. With a smartphone, anyone can learn, rent equipment, and establish high-performance teams with members worldwide. Size is no longer a measure of innovation, and anyone with an innovative idea can assemble a small team to solve the world's problems."
 
 | Lord of the Rings |
 | :---: |
@@ -17,7 +17,7 @@ If we go back to a not-too-distant past, say, 30 years. Where could we find an e
 
 Therefore, transforming and innovating was something only possible for large organizations. And it was only possible for those with a lot of resources.
 
-We currently see news of so-called unicorns. Tiny organizations that came up with innovative product ideas or solving complex problems. Some of these organizations today have become large. But they were born tiny, sometimes with the idea of ​​one person or a small group of motivated people.
+We currently see news of so-called unicorns. Tiny organizations that came up with innovative product ideas or solving complex problems. Some of these organizations today have become large. But they were born tiny, sometimes with the idea of one person or a small group of motivated people.
 
 But why is this possible now? Something that was previously inconceivable. Someone, “out of nowhere”, comes up with a revolutionary idea, creates a startup, starts a new business, sometimes something that no one had ever thought possible and displaces large organizations that were already established in that market?
 
