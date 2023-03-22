@@ -1,6 +1,6 @@
 # Sense of belonging
 
->""
+>"n "Dances With Wolves," loyalty comes from purpose. Creating a sense of belonging for customers is more effective than reward programs. Understanding trends in movements and causes is necessary to align with clients' beliefs, while beautiful experiences must deliver personalization and relevance. In the digital era, touchpoints need to be immediate, relevant, and personalized. Modeling moments of truth can adapt functions and content to different user contexts, while inviting users to pilot new versions allows for feedback on design and context."
 
 | Dances With Wolves |
 | :---: |
