@@ -1,6 +1,6 @@
 # The problem is yours
 
->""
+>"Companies should prioritize efficiently solving customer problems and improving the quality of their products and services, rather than just trying to "enchant" customers through special effects or tactical marketing campaigns, according to an article. Companies must take ownership of problems related to the quality of delivery and use digital tools to understand the customer journey and predict their actions. The article also encourages companies to show commitment to customers when things go wrong, keep communication channels open and establish a partnership with customers for continuous improvement."
 
 | Up in the air |
 | :---: |
