@@ -19,30 +19,18 @@ In this way, technologies related to augmented reality must be applied in a way 
 
 So which augmented reality technologies should we consider during a digital transformation?
 
-Digital Marketing: Ability to reach an audience through the Internet and provide them with an experience about products and services offered;
-
-Social Networks: Ability to interact with an audience, providing and receiving relevant information, without physical barriers of distance and time;
-
-Descriptive Analytics: Ability to format relevant information about what has happened or is happening in the organization;
-
-Prescriptive Analytics: Ability to infer future behaviors of the organization, its employees, its customers or the market;
-
-Predictive Analytics: Ability to develop recommendations for concrete actions to be carried out in organizations for the continuous improvement of their business;
-
-Machine Learning: Ability to infer results through previous experiences and learning;
-
-Cognitive Artificial Intelligence: Ability to understand texts, images and language for human integration with other algorithms;
-
-Deep Learning: Ability for algorithms to learn about specialized subjects and topics;
-
-Automation: Ability to automate simpler activities, allowing people to be freed up for higher value-added activities;
-
-Robotization: Ability to apply mechanical robots to perform human activities, allowing greater strength and dexterity in specific manufacturing activities, delicate procedures or risky activities;
-
-Internet Of Things: Ability to “feel” the behavior of equipment connected to the internet;
-
-VR Devices: Ability to see and hear virtual environments the same way we see and hear the physical environment around us;
-
-AR Devices: Ability to complement the real world with insights from the virtual world.
+- Digital Marketing: Ability to reach an audience through the Internet and provide them with an experience about products and services offered;
+- Social Networks: Ability to interact with an audience, providing and receiving relevant information, without physical barriers of distance and time;
+- Descriptive Analytics: Ability to format relevant information about what has happened or is happening in the organization;
+- Prescriptive Analytics: Ability to infer future behaviors of the organization, its employees, its customers or the market;
+- Predictive Analytics: Ability to develop recommendations for concrete actions to be carried out in organizations for the continuous improvement of their business;
+- Machine Learning: Ability to infer results through previous experiences and learning;
+- Cognitive Artificial Intelligence: Ability to understand texts, images and language for human integration with other algorithms;
+- Deep Learning: Ability for algorithms to learn about specialized subjects and topics;
+- Automation: Ability to automate simpler activities, allowing people to be freed up for higher value-added activities;
+- Robotization: Ability to apply mechanical robots to perform human activities, allowing greater strength and dexterity in specific manufacturing activities, delicate procedures or risky activities;
+- Internet Of Things: Ability to “feel” the behavior of equipment connected to the internet;
+- VR Devices: Ability to see and hear virtual environments the same way we see and hear the physical environment around us;
+- AR Devices: Ability to complement the real world with insights from the virtual world.
 
 [<< previous](4-with_your_head_over_the_clouds.md) | [next >>](6-simple_is_safer.md)
