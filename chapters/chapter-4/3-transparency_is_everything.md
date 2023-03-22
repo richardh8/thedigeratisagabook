@@ -1,6 +1,6 @@
 # Transparency is everything
 
->""
+>"In the movie "The Hangover", friends reveal the truth about their wild night in Vegas, showing that honesty is important. Similarly, in the age of transparency, organizations must prioritize transparency and ethics to gain trust from customers, employees, partners, and society. Transparency in products and services, hiring, decisions, and communication are key aspects that impact an organization's reputation. "Glassbox" is a new trend that emphasizes the importance of a company's culture and values being transparent to consumers."
 
 | The Hangover |
 | :---: |
@@ -23,7 +23,7 @@ Transparency in hiring: if we consider the new generation that embarks on differ
 
 Transparency in decisions: it is not always possible to consult with all people to make decisions. Most of the time, leaders take responsibility for them. However, modern and agile organizations lead their teams to organize themselves in the pursuit of the outlined objectives. For this, investing time in alignments is healthy. Transparency leaves no room for misinterpretations that often generate unnecessary gossip, which negatively affects employee satisfaction.
 
-Transparency in communication: one of the most important activities in an organization, communication takes place at all times between the various participants in its interaction network. In this sense, clarity and objectivity are important for these peers to be able to absorb and constantly reinforce the values ​​and principles that govern the organization's performance.
+Transparency in communication: one of the most important activities in an organization, communication takes place at all times between the various participants in its interaction network. In this sense, clarity and objectivity are important for these peers to be able to absorb and constantly reinforce the values and principles that govern the organization's performance.
 
 A new trend is known as “Glassbox”: Your internal culture is your brand. In other words, the narrowing of the company's culture with its consumers is evident, not only due to the transparency promoted, but the fact that there is no longer any escape in moving towards transparency. Is your company a Blackbox? So find out what your DNA culture is for your business and value proposition, it needs to be original, there's no copy and paste recipe, and it's closer to your heart than you might think.
 
