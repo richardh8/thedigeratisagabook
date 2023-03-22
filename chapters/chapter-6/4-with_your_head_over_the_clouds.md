@@ -1,6 +1,6 @@
 # With your head over the clouds
 
->""
+>"Inception taught to us about the relativity and exponentiality of time across layers, cloud computing for organizations during a digital transformation process is how application development and operations teams can move fast by leveraging infrastructure as a service. The use of public clouds has shown lower costs than private clouds, and far from on-premisses datacenters, and paying only for what is used can represent considerable savings. Public clouds are also naturally accessible, allowing employees and customers to have easy access to digital solutions. The article suggests that the flexibility of public clouds is essential for survival in today's fast-changing business environment."
 
 | Inception |
 | :---: |
