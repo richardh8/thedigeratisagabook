@@ -1,6 +1,6 @@
 # The incredible machine
 
->""
+>"The proliferation of technology is changing the way we design technological solutions. Integrating existing solutions is easier than creating something new from scratch, leading to the success of companies that open their solutions to the world, creating vibrant ecosystems through APIs. The focus should be on creating simple solutions to complex problems, innovating on innovations, and having a mindset focused on business opportunities. It may be better to think about participating and creating ecosystems rather than creating internal technological solutions."
 
 | The Imitation Game |
 | :---: |
