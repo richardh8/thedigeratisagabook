@@ -1,6 +1,6 @@
 # Curating the ecosystem
 
->""
+>"The success of a business depends on building and maintaining healthy partnerships, which can be achieved by organizing an ecosystem that guarantees innovation and agility. Trust, values, complementarity, contributions, support, resolution, and vision are important precautions to consider when choosing partners. The right partners can help create results that would not have been possible otherwise and increase potential for creating true synergies."
 
 | The Fifth Element |
 | :---: |
