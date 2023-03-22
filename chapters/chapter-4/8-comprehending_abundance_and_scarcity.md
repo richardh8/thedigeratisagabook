@@ -21,5 +21,5 @@ Uber: Envisioned an abundance of digital information about people's movement thr
 
 Digital transformation offers companies the possibility of being prepared to quickly read this scenario of constant changes, as well as the structure and intelligence necessary to offer new solutions that connect scarcity to abundance and, in this way, become the new organizations. exponential growth rates, which grow far above the average of their competitors and markets.
 
-[<< previous](7-zero_negative_impact_but_high_positive_ones.md) | [next >>](tbd)
+[<< previous](7-zero_negative_impact_but_high_positive_ones.md) | [next >>](../chapter-5/0-ultimate_user_experience.md)
 
