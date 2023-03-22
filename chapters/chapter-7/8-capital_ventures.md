@@ -1,6 +1,6 @@
 # Capital ventures
 
->""
+>"Corporate venture capital (CVC) is an alternative way for companies to accelerate their digital transformation journey by investing in nascent and emerging companies. The CVC model has created a new dynamic in the investment ecosystem, stimulating innovation and creating a good strategy for companies that want to learn about new technologies, practices, and methods. Investing in CVC can help increase R&D efforts and integration, amplify innovation within the core, and create opportunities for future partnerships. CVC also provides a way to protect intellectual property and maintain an intimate relationship with the company."
 
 | TBD |
 | :---: |
