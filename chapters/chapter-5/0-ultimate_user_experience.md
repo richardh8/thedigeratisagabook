@@ -22,4 +22,4 @@ Finally, recognizing that white is the new basic. In other words, simplicity and
 
 In conclusion, creating new experiences through technology is essential in today's fast-paced world. By focusing on mimetic approaches, fitting the reality of demand or not known demands, and using a human-sense centric approach as key for adoption.
 
-[<< previous](../chapter-4/8-comprehending_abundance_and_scarcity.md) | [next >>](1-going_out_to_the_streets)
+[<< previous](../chapter-4/8-comprehending_abundance_and_scarcity.md) | [next >>](1-going_out_to_the_streets.md)
