@@ -1,6 +1,6 @@
 # Dialoging your relationships
 
->""
+>"Partnerships are essential for organizations to succeed and focus on delivering value to customers. Fine-tuning a partnership requires cultural alignment, mutual gains, reciprocity, and learning. Ongoing communication and trust are important to build a strong relationship and manage risks. Real partnerships share vulnerability and work together to create new possibilities for the future. Building true partnerships can differentiate organizations in the marketplace and make the process more fun."
 
 | The Other Guys |
 | :---: |
@@ -14,18 +14,12 @@ We all know that in today's digital world, an organization is unlikely to succee
 The other day, one of my colleagues asked me, “What is the difference between a supplier and a true business partnership? This is a vital question when any person or company is innovating. And the reason is that when someone is doing something really new, it's almost impossible to specify in advance everything you're going to need from your partners. Thus, partnerships for innovation require that the relationship between the parties be very transparent.
 
 The best way to measure and understand your real relationship with your partners may be to observe whether certain conditions exist, such as:
-
-Cultural alignment: do partner companies share the same business and management culture?
-
-Mutual gains: are there effective gains for both parties in this relationship?
-
-Reciprocity: there is a mutual interest in the continuity of the relationship
-
-Learning: is there an exchange of knowledge and learning between the parties?
-
-If this comes through clearly, we can have a context for a good, long-term and successful partnership.
-
-But why is it important to fine-tune the partnership?
+- Cultural alignment: do partner companies share the same business and management culture?
+- Mutual gains: are there effective gains for both parties in this relationship?
+- Reciprocity: there is a mutual interest in the continuity of the relationship
+- Learning: is there an exchange of knowledge and learning between the parties?
+- If this comes through clearly, we can have a context for a good, long-term and successful partnership.
+- But why is it important to fine-tune the partnership?
 
 The adage that two brains working together are better than one may explain why many entrepreneurs and small business owners form partnerships. However, it's not just these brains that must work well together. Partner personalities also need to get along. The strength of the relationship you have with a business partner is an important determining factor in the success of the business as a whole. And the key to building that strength is ensuring an ongoing, open dialogue. Communication is an important part of a business relationship. Ongoing dialogue is important because it helps reduce the risk of making assumptions and encourages everyone to stay focused on their shared vision. Of course, there is likely to be some miscommunication or disagreement. But this is natural, but attitude and posture in the face of adversity is the fundamental factor. If the relationship is one of mutual trust, failures will be understood, addressed and resolved through continuous improvement. Open communication builds trust, minimizes misunderstandings and increases efficiency.
 
