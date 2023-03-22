@@ -18,19 +18,12 @@ In a deep process of digital transformation, one must always question the decisi
 And it is at this moment that the values of what we now call cloud computing must be identified. Are we just talking about specialization and cost?
 
 Important characteristics of cloud computing that must be taken into account during a digital transformation process:
-
-Cost: the use of public clouds (accessible over the Internet) has shown lower costs than private clouds. And this is mainly related to 2 factors.
-
-The exchange of assets for expenses: The use of technology instead of buying technology is a trend and has been showing lower cost;
-
-Pay as you go: Digital technologies often have seasonal use. Therefore, paying only for what you use can represent considerable savings.
-
-Specialization: Organizations tend to focus on their business and do not need all the specialties related to digital technologies in-house. Good quality infrastructure providers rely on specialists, which would not be feasible to internalize.
-
-Mobility: Public clouds are naturally accessible (via the Internet), which means that both employees and customers can have easy access to digital solutions without the organization needing complex architectures to do so.
-
-Time-to-Market: Public clouds already have all the infrastructure needed to get started quickly, removing infrastructure acquisition and management processes. And that means much less time to get solutions up and running.
-
-Flexibility: Public clouds are naturally very flexible, which gives organizations the ability to improve and modify their business models much faster. And today, that agility is essential for survival.
+- Cost: the use of public clouds (accessible over the Internet) has shown lower costs than private clouds. And this is mainly related to 2 factors.
+- The exchange of assets for expenses: The use of technology instead of buying technology is a trend and has been showing lower cost;
+- Pay as you go: Digital technologies often have seasonal use. Therefore, paying only for what you use can represent considerable savings.
+- Specialization: Organizations tend to focus on their business and do not need all the specialties related to digital technologies in-house. Good quality infrastructure providers rely on specialists, which would not be feasible to internalize.
+- Mobility: Public clouds are naturally accessible (via the Internet), which means that both employees and customers can have easy access to digital solutions without the organization needing complex architectures to do so.
+- Time-to-Market: Public clouds already have all the infrastructure needed to get started quickly, removing infrastructure acquisition and management processes. And that means much less time to get solutions up and running.
+- Flexibility: Public clouds are naturally very flexible, which gives organizations the ability to improve and modify their business models much faster. And today, that agility is essential for survival.
 
 [<< previous](3-where_how_and_when_needed.md) | [next >>](5-human_augmented_reality.md)
