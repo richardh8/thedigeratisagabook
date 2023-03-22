@@ -1,6 +1,6 @@
 # Where, how and when_needed
 
->""
+>"The proliferation of smartphones and embedded technology has enabled people to do almost anything they want, wherever they are, and whenever they want. It is necessary to think about solutions that are available 24/7, without interruptions, and provide precise services to prevent users from abandoning a product or service. It is important to understand the solution in its ubiquitous form and offer communication facilities through social networks and messaging services."
 
 | Æon Flux |
 | :---: |
