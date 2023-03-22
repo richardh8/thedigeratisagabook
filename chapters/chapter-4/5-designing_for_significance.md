@@ -1,6 +1,6 @@
 # Designing for significance
 
->""
+>"The presence of a sense of purpose and meaning is fundamental for adequate performance in any activity. Clarity in vision, purpose, and meaning is crucial for employee engagement and a company's ability to execute strategically. Consumers demand a broader action concerned with issues of public interest, and businesses with a clear sense of purpose can attract new talent, promote a cooperative culture, and represent a competitive advantage."
 
 | 300: Rise of an Empire |
 | :---: |
