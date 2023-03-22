@@ -1,6 +1,6 @@
 # Startup as SaaS
 
->""
+>"The use of startups as SaaS (Software as a Service) is helping large companies to scale their productivity and to design and launch innovative products and services. By partnering with startups, large corporations can incorporate innovative products into their portfolios and leverage their potential. It is important for companies to be attentive to the search and construction of new partners, glimpsing the startup market with great frequency and attention, and avoiding the misconception of trying to create their own solutions and tools."
 
 | The Circle |
 | :---: |
