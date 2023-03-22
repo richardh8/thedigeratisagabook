@@ -1,6 +1,6 @@
 # Accepting the duality of the world
 
->""
+>"The movie "The Matrix" illustrates the duality of the real and digital worlds and how they promote a single experience. Similarly, a company seeking digital transformation must excel in both physical and digital spheres, delivering value to clients and stakeholders regardless of the channel. To provide an integrated and relevant experience, it is necessary to recognize who is performing a certain action and activate their histories, preferences, and other information in real-time. The context of consumer actions and their expectations of agility, transparency, and efficiency created by the digital environment should be extended to service and physical relationships, promoting consistent experiences that align with the brand's purpose and message."
 
 | The Matrix |
 | :---: |
