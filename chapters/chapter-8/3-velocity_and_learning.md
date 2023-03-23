@@ -1,6 +1,6 @@
 # Velocity and learning
 
->""
+>"Innovation is a key driver of digital transformation, and organizations need to develop the ability to experiment with focus and agility to generate new learnings that expand problem-solving and value creation. To achieve this, organizations must break internal paradigms, develop a structure that constantly and quickly learns, and implement methodologies appropriate to the proposed agility. Organizations must also foster a mindset that understands and stimulates experimentation, encourages collaboration, and empowers employees to generate trust, motivation, and fresh ideas. The digital transformation journey requires a managed portfolio for maturation with pre-defined outputs to create a solid knowledge base of failures and successes."
 
 | Lucy |
 | :---: |
