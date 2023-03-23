@@ -1,6 +1,6 @@
 # P&L is result of a valued ecosystem
 
->""
+>"The purpose of an organization should not be solely profit-driven. Instead, organizations should aim to create value for stakeholders through conscious capitalism, which focuses on a greater purpose, stakeholder integration, conscious leadership, and conscious culture and management. This movement is related to "Marketing 3.0," which emphasizes the importance of organizations focusing on delivering their value proposition. The Triple Bottom Line framework should also be used to evaluate performance in creating value for the business in a broader perspective, including social, economic, and ecological aspects. By not following this trend, businesses increase risks to stakeholders and should aim to carefully heal the value chain."
 
 | Money Never Sleeps |
 | :---: |
@@ -17,7 +17,7 @@ According to John Mackey and Raj Sisodia, authors of “Conscious Capitalism —
 
 According to the authors, the so-called Conscious Capitalism is based on four principles:
 
-Greater Purpose: Acting with a greater purpose, organizations go beyond simply generating and maximizing profit and creating a positive impact for all their stakeholders. Purpose and values ​​form the core of a conscious organization.
+Greater Purpose: Acting with a greater purpose, organizations go beyond simply generating and maximizing profit and creating a positive impact for all their stakeholders. Purpose and values form the core of a conscious organization.
 
 Stakeholder Integration: Stakeholders are all actors that impact or are impacted by an organization and are all equally important and connected by a sense of purpose and shared values. Thus, a “win-win” relationship is sought, preserving harmony and integration between the parties.
 
