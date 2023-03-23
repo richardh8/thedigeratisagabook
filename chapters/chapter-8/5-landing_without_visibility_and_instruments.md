@@ -1,6 +1,6 @@
 # Landing without visibility and instruments
 
->""
+>"The digital age is challenging established businesses, and having access to important data is crucial for making informed decisions. Making decisions without this data is like landing a plane without visibility and instruments, a risky and unlikely feat. A digital organization must generate and use data consistently and avoid conflicts to remain competitive and vibrant. Having a single source of truth and elevating an organization's maturity in digital data generation and use can ensure faster and more informed decisions."
 
 | Sully: Miracle on the Hudson |
 | :---: |
