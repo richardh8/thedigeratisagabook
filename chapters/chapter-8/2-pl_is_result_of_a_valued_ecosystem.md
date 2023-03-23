@@ -33,7 +33,7 @@ Advances in digital technologies have allowed a level of connection and peer rel
 
 We must also guide these value actions under the 3BL aspect, the “Triple Bottom Line”. A framework used by several organizations to evaluate their performance in a broader perspective in creating value for the business. 3BL introduces the concept of total cost accounting, including social, economic and ecological aspects to evaluate results in the production of value. It includes the responsibility of all stakeholders integrated in the value chain, whether in creation, production, influence and indirect actions. We can see how organizations that do not respond adequately to 3BL are being penalized by their consumers, media or governments due to cases of violence, abuse, pollution and data security.
 
-On a journey of digital transformation, we must always consider how to connect to the market and people and create lasting purposes that allow the generation of
+In a journey of digital transformation, we must always consider how to connect to the market and people and create lasting purposes that allow the generation of smart, coherent and clean economies. By not following this trend, we increase risks to the business and stakeholders. We have to be conscious and careful in the production of value and carefully heal the value chain.
 
 [<< previous](1-hacking_your_business.md) | [next >>](3-velocity_and_learning.md)
 
