@@ -1,6 +1,6 @@
 # Ghost and witch hunting
 
->""
+>"he movie "Ghostbusters" is used as an analogy to highlight how businesses can suffer from outdated processes and disconnected systems, causing employees and customers to become zombies. To overcome this, companies should reduce silos, identify and improve processes, reduce verticalization, and prioritize multidisciplinary and transdisciplinary action. By doing so, organizations can identify valuable data, applications, and platforms and use them to increase efficiency and innovation within the ecosystem. This witch and ghost hunting process can also help businesses focus on what is important and mandatory while thinking differently about these aspects."
 
 | TBD |
 | :---: |
