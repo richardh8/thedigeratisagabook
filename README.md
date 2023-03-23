@@ -205,7 +205,7 @@ To close this prologue, I wanted to thank you for reading up to here, and I'm ve
 - [Making everything versus connecting everything](8-making_everything_versus_connecting_everything.md)
 > "In the movie “Arrival”, a linguist saves the world by learning the language of extraterrestrials. Similarly, understanding the business world as an ecosystem is essential for organizations wanting to achieve growth through digital transformation. Rather than trying to do everything, organizations should focus on their core business and connect with partners who can add value to their value chain. Successful partnerships require understanding the different roles of organizations within ecosystems and identifying which role your organization can play effectively. The modern leader needs vision and understanding to “connect the dots” that are important for customers and their organization.
 
-## Digital Badges (Roles In Digital Culture) [Chapter 9 - The roles of Digital Transformation (Employee Domain)](chapters/chapter-8/0-digital_badges.md)
+## Digital Badges (Roles In Digital Culture) [Chapter 9 - The roles of Digital Transformation (Employee Domain)](chapters/chapter-9/digital_badges.md)
 
 ## The Digital Transformation Canvas
 
