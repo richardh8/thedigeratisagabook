@@ -1,6 +1,6 @@
 # Making possible the impossible
 
->""
+>"Digital technology is the core element that has allowed many new organizations to flourish and create disruptions in diverse markets, but to survive and thrive, organizations must have a Massive Transformative Purpose (MTP) that causes significant transformation in the industry, community and planet, which attracts people with talents and training who are eager to join the organization, and create a strong expectation in their consumers through narratives that enchant. The organization must also deliver a new user experience that cannot fall short of the expectations proposed by the MTP, have clear vision of the alliances and partnerships, and connect technologies in a flexible, scalable architecture that can continually adapt to support new functionality and technologies."
 
 | The Founder |
 | :---: |
