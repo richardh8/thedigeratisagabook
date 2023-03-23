@@ -10,12 +10,9 @@
 >In the movie “Sully: Miracle on the Hudson”, Captain Chesley “Sully” Sullenberger is an experienced pilot for US Airways, captaining Flight 1549 from LaGuardia New York to Charlotte. Three minutes after takeoff, both turbines are hit by birds at an altitude of 850 meters. He receives the tower's recommendation to return to the airport. With no thrust forces from the turbines and with 155 passengers on board, assessing the situation of the instruments, he decides to land in the Hudson River. Everyone was saved and no one was hurt, but Sully went through a lot of trials before the courts, until he pointed out the "human factor".
 
 The business world is becoming more and more challenging. In this digital age, established businesses are constantly being challenged by new ideas, which are rapidly being materialized by small, dynamic organizations. We know that any organization to thrive must competently face the following challenges:
-
-Solve your internal problems quickly and effectively to ensure quality in your products and services;
-
-Expand your performance before your competitors to ensure your positioning and relevance;
-
-Optimize your internal processes so that costs don't erode profits in the future.
+- Solve your internal problems quickly and effectively to ensure quality in your products and services;
+- Expand your performance before your competitors to ensure your positioning and relevance;
+- Optimize your internal processes so that costs don't erode profits in the future.
 
 The experiences of its leaders, the competence of its teams and the organization's internal capabilities are vital to overcome these challenges. However, it is very important that organizations can use as much information about their business and the environment as possible. Information about problems to be solved, information about how efficiently business is being conducted, and information about the environment in which the organization operates. Any decision made without the support of this information can be compared to trying to land a plane with no visibility and no instruments. Despite the pilots' great experience, the chance of a successful landing in these conditions is quite low. So, answering the title question. Is it possible to land a plane with no visibility and no instruments? The answer is: unlikely. Unless the pilot and all passengers are very lucky, even with all the experience.
 
