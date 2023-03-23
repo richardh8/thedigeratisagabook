@@ -1,6 +1,6 @@
 # Hacking your business
 
->""
+>"In the TV show "Mr. Robot," a hacker uses his genius mind and technology to create the biggest financial crisis in the world by attacking a large organization. Today, those who take the time to learn about new technologies and trends are advancing their businesses beyond their wildest dreams. Organizations should identify and empower their internal hackers, supporting them with digital solutions and giving them space to expand their creative thinking. Allowing the organization to be hacked for good can bring new ideas and become a differentiator during a digital transformation journey."
 
 | Mr. Robot |
 | :---: |
