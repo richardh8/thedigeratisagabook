@@ -1,6 +1,6 @@
 # Storytelling not specifying
 
->""
+>"The movie "Dead Poets Society" demonstrates how stories can inspire and create a shared sense of purpose among people. In the digital transformation process, storytelling plays an important role in communicating design ideas, fostering collaboration and innovation, and putting a human face on analytical data. User journey stories can be used to understand what to design, implement and test, and are a tool for squad teams, allowing multidisciplinary teams to create solutions. Elements of a compelling story include a clear and complete main character, context, plot, and vision, which can improve the ability to retrieve information, persuasion, and call to action."
 
 | Dead Poets Society |
 | :---: |
