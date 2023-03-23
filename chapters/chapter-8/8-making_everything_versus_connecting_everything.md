@@ -1,6 +1,6 @@
 # Making everything versus connecting everything
 
->""
+>"In the movie “Arrival”, a linguist saves the world by learning the language of extraterrestrials. Similarly, understanding the business world as an ecosystem is essential for organizations wanting to achieve growth through digital transformation. Rather than trying to do everything, organizations should focus on their core business and connect with partners who can add value to their value chain. Successful partnerships require understanding the different roles of organizations within ecosystems and identifying which role your organization can play effectively. The modern leader needs vision and understanding to “connect the dots” that are important for customers and their organization."
 
 | Arrival |
 | :---: |
