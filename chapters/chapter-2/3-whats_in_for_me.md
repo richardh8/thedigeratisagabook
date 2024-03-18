@@ -17,7 +17,7 @@ Good management of human capital is vital. People value good management. Good ma
 engagement is
 
     An emotional commitment the employee has to the organization and its goals rather than happiness or satisfaction;
-    Having employees care about their work and their company. They don't work just for the olerite or just for the next promotion, but on behalf of the organization's goals.
+    Having employees care about their work and their company. They don't work just for the paycheck or just for the next promotion, but on behalf of the organization's goals.
 
 The value of employee engagement
 
