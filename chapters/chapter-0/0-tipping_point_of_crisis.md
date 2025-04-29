@@ -7,3 +7,5 @@ In no other moment of our human history have we seen so much change in such a sh
 If one thing sounds to be right, is the fact that crisis, even though avoidable ones, when happen, they are a source of great challenges leading to outstanding opportunities to be tapped, assessed, reviewed, adjusted and acted on propelling and creating relevant innovations, all we need is to hear the silent signals of the crisis uprising, pay attention to it fairly, with interest and engagement, a battle field for the digerati warrior to build upon.
 
 [<< previous](../../README.md)    |     [next >>](1-postponing_getting_deeper_into_the_crisis.md)
+
+This is a test with CodeGPT
