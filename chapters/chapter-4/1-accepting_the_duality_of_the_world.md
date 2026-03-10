@@ -1,6 +1,6 @@
 # Accepting the Duality of the World
 
->"The Matrix offers a striking metaphor for the times we live in — a dual reality where the physical and digital worlds are inseparably intertwined, creating a single, seamless experience. For organizations undergoing digital transformation, mastering this duality is not optional; it is essential. The goal is clear: deliver consistent value to clients and stakeholders, whether engagement happens face-to-face in the physical world or through their digital avatar.”
+>"The Matrix offers a striking metaphor for the times we live in — a dual reality where the physical and digital worlds are inseparably interwined, creating a single, seamless experience. For organizations undergoing digital transformation, mastering this duality is not optional; it is essential. The goal is clear: deliver consistent value to clients and stakeholders, whether engagement happens face-to-face in the physical world or through their digital avatar.”
 
 | The Matrix |
 | :---: |
