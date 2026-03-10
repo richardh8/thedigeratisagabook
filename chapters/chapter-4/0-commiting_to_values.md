@@ -1,4 +1,4 @@
-<img src="../../images/values.png" width="100" height="100">
+<img src="../../images/value.png" width="100" height="100">
 
 # Commiting to Values
 Value Domain
